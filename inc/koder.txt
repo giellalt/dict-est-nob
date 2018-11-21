@@ -1,0 +1,23 @@
+21468 = nn  = t = norsk omsetjing
+18882 = gn  = - = norsk grammatikk (suffiks)
+17377 = me  = l = estisk oppslagsord
+15940 = tp  = - = estisk böyingsklasse
+11625 = ge  = - = estisk grammatikk (suffiks)
+ 7341 = fn  = xt = norsk omsetjing av eksempel
+ 6955 = fe  = x = estisk eksempel
+ 1774 = ht  = re = domenetagg
+ 1179 = de  = re = avgrensing/spesifisering av omsetjing
+ 1135 = nr  = - = nummerering av mg 
+  411 = ::  = - = omsetjing manglar, vi har berre eksempel
+  379 = sl  = pos = ordklasse
+  359 = ls  = - = 
+  359 = lg  = - = morfologi
+  227 = pe  = - = pluralform i estisk
+  217 = se  = - = 
+  171 = rs  = - = 
+  171 = rg  = - = 
+  151 = kn  = - = 
+   66 = vt1 = - = 
+   62 = vt2 = - = 
+   55 = pl  = - = 
+   40 = sn  = - = 
