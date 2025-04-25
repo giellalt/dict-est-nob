@@ -42,4 +42,4 @@ an apt-based system (debian, ubuntu, etc), the command would be
 
 ```
 sudo apt-get install giella-est
-```.
+```
