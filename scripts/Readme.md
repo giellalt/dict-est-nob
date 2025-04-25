@@ -34,4 +34,12 @@ python estnob2xml.py ../inc/est_nor_2005_utf8.txt > output.xml
 Run the script with the `--analyse` argument to use the Estoninan analyser to
 look up pos of words. It requires an hfst library to run, and it looks
 for the Estoninan analyser from apertium nightly, which is searched for in path
-`/usr/share/giella/est/analyser-gt-desc.hfst".
+`/usr/share/giella/est/analyser-gt-desc.hfst`.
+
+If you have apertium nightly configured, you can download the Estonian fst
+from apertimu nightly from the `giella-est` package in apertium night. On
+an apt-based system (debian, ubuntu, etc), the command would be
+
+```
+sudo apt-get install giella-est
+```.
