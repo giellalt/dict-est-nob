@@ -38,8 +38,7 @@ The difference between the two kinds of hfst python libraries:
 """
 
 
-def get_transducer(lang, analyser_fst):
-    apnightly_transducer_path = f"/usr/share/giella/{lang}/{analyser_fst}"
+def get_fst_loader():
     try:
         import hfst
     except ImportError:
@@ -48,39 +47,42 @@ def get_transducer(lang, analyser_fst):
         except ImportError:
             return None
         else:
-            input_stream = pyhfst.HfstInputStream(apnightly_transducer_path)
+            def load_fst(lang, analyser_fst):
+                apnightly_transducer_path = f"/usr/share/giella/{lang}/{analyser_fst}"
+                input_stream = pyhfst.HfstInputStream(apnightly_transducer_path)
+                try:
+                    tr = input_stream.read()
+                except Exception:
+                    sys.exit(
+                        "ERROR: --analyse given, but failed to load analysis "
+                        f"file\n{apnightly_transducer_path}\nFile missing, "
+                        "reading error, or file is not an fst."
+                    )
+
+                def lookup(string):
+                    return [s[0] for s in tr.lookup(string)]
+                return lookup
+            return load_fst
+    else:
+        def load_fst(lang, analyser_fst):
+            apnightly_transducer_path = f"/usr/share/giella/{lang}/{analyser_fst}"
             try:
-                tr = input_stream.read()
+                stream = hfst.HfstInputStream(apnightly_transducer_path)
             except Exception:
                 sys.exit(
                     "ERROR: --analyse given, but failed to load analysis "
                     f"file\n{apnightly_transducer_path}\nFile missing, "
                     "reading error, or file is not an fst."
                 )
+            tr = stream.read()
+            # libhfst has these things surrounded by @'s...
+            pat = re.compile(r"@[^@]*@")
 
             def lookup(string):
-                return [s[0] for s in tr.lookup(string)]
+                # every result from tr.lookup() is a 2-tuple (result, weight)
+                return [re.sub(pat, "", s[0]) for s in tr.lookup(string)]
             return lookup
-    else:
-        try:
-            stream = hfst.HfstInputStream(apnightly_transducer_path)
-        except Exception:
-            sys.exit(
-                "ERROR: --analyse given, but failed to load analysis "
-                f"file\n{apnightly_transducer_path}\nFile missing, "
-                "reading error, or file is not an fst."
-            )
-        tr = stream.read()
-        # libhfst has these things surrounded by @'s...
-        pat = re.compile(r"@[^@]*@")
-
-        def lookup(string):
-            # every result from tr.lookup() is a 2-tuple (result, weight)
-            return [re.sub(pat, "", s[0]) for s in tr.lookup(string)]
-        return lookup
-
-
-fst_lookup = get_transducer("est", "analyser-gt-desc.hfstol")
+        return load_fst
 
 
 POSES = {
@@ -248,35 +250,20 @@ class Entry:
         for line in bulk:
             typ, data = line.split("+", maxsplit=1)
             if typ == "me":
-                obj.lemma = data.replace("+", "").replace("|", "").replace("\\", "ma")
+                obj.lemma = data.replace("+", "").replace("|", "").replace("\\", "")
             elif typ == "nn":
                 if not translation.is_empty():
                     obj.translations.append(translation)
                     translation = Translation()
-                translation.translation = data
+                translation.translation = data.replace("|", "")
             elif typ == "fe":
                 ex = data
             elif typ == "fn":
                 assert ex is not None, "fn must come after fe"
                 translation.examples.append((ex, data))
             elif typ == "tp":
-                maybe_pos = POSES.get(data)
+                obj.pos = POSES.get(data)
 
-                missing_pos = (maybe_pos == "A|N" or maybe_pos is None)
-
-                if missing_pos and analyse:
-                    lookup_results = fst_lookup(obj.lemma)
-                    if lookup_results:
-                        possible_poses = set()
-                        for lookup_result in lookup_results:
-                            word_form, pos, *rest_tags = lookup_result.split("+")
-                            if word_form == obj.lemma:
-                                possible_poses.add(pos)
-
-                        if len(possible_poses) == 1:
-                            maybe_pos = possible_poses.pop()
-                if maybe_pos is not None:
-                    obj.pos = maybe_pos
         if not translation.is_empty():
             obj.translations.append(translation)
 
@@ -296,6 +283,43 @@ class Entry:
             e.append(trans.to_xml())
 
         return e
+
+    def try_find_pos_by_analysis(self, est_lookup, nob_lookup):
+        lookup_results = est_lookup(self.lemma)
+
+        possible_poses = set()
+        all_poses = set()
+        for lookup_result in lookup_results:
+            word_form, pos, *rest_tags = lookup_result.split("+")
+            if word_form == self.lemma:
+                possible_poses.add(pos)
+            else:
+                all_poses.add(pos)
+
+        if len(possible_poses) == 1:
+            self.pos = possible_poses.pop()
+        elif len(all_poses) == 1:
+            self.pos = all_poses.pop()
+        else:
+            # try nob..
+            nob_lemma_match = set()
+            nob_all = set()
+            for t in self.translations:
+                if t.translation is None:
+                    continue
+
+                for result in nob_lookup(t.translation):
+                    word_form, pos, *rest_tags = result.split("+")
+                    if word_form == t.translation:
+                        nob_lemma_match.add(pos)
+                    else:
+                        nob_all.add(pos)
+
+            if len(nob_lemma_match) == 1:
+                # assume it is the pos
+                self.pos = nob_lemma_match.pop()
+            elif len(nob_all) == 1:
+                self.pos = nob_all.pop()
 
 
 def parse_args():
@@ -324,12 +348,20 @@ def parse_args():
 def main():
     args = parse_args()
 
-    if args.analyse and fst_lookup is None:
-        sys.exit(ERRORMSG_ANALYSE_BUT_NO_HFST_PACKAGE)
+    if args.analyse:
+        load_fst = get_fst_loader()
+        if load_fst is None:
+            sys.exit(ERRORMSG_ANALYSE_BUT_NO_HFST_PACKAGE)
+        est_fst_lookup = load_fst("est", "analyser-gt-desc.hfstol")
+        nob_fst_lookup = load_fst("nob", "analyser-gt-desc.hfstol")
 
     r = ET.Element("r")
     for bulk in read_bulks(args.input):
         entry = Entry.from_bulk(bulk, analyse=args.analyse)
+        if args.analyse:
+            missing_pos = (entry.pos == "A|N" or entry.pos is None)
+            if missing_pos and args.analyse:
+                entry.try_find_pos_by_analysis(est_fst_lookup, nob_fst_lookup)
         e = entry.to_xml()
         if e is not None:
             r.append(e)
