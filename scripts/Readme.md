@@ -29,17 +29,38 @@ Or
 python estnob2xml.py ../inc/est_nor_2005_utf8.txt > output.xml
 ```
 
+
 ## Running with pos-finding analyser
 
-Run the script with the `--analyse` argument to use the Estoninan analyser to
-look up pos of words. It requires an hfst library to run, and it looks
-for the Estoninan analyser from apertium nightly, which is searched for in path
-`/usr/share/giella/est/analyser-gt-desc.hfst`.
+Run with `--analyse` to use analysers to try to find missing poses from analysis.
 
-If you have apertium nightly configured, you can download the Estonian fst
-from apertimu nightly from the `giella-est` package in apertium night. On
-an apt-based system (debian, ubuntu, etc), the command would be
+### Prerequisites
+
+You must have a Norwegian and Estonian analyser installed on the system,
+in the path where the `giella-nob` and `giella-est` apertium nightly packages
+reside, which is in `/usr/share/giella/[nob,est]/...`.
+
+To install them on an *apt* based system:
 
 ```
-sudo apt-get install giella-est
+sudo apt-get install giella-nob giella-est
+```
+
+### Running
+
+The script will try to use the `hfst` python package to run fst operations,
+and fall back to try the `pyhfst` python package, if `hfst` is not found.
+
+If you are using `uv`, you can specify dependencies to run the script with, using the `--with PACKAGE` argument to `uv run`, for example:
+
+```
+uv run --with hfst estnob2xml.py ../inc/est_nor_2005_utf8.txt --analyse
+```
+
+### Troubleshooting
+
+_No solution found when resolving --with dependencies_: This can happen if your python version is not compatible with the python versions that the `hfst` package requires. Try using a specific python version that is known to work. With `uv`, you can specify which python version to use, with the `--python VERISON` argument to `uv run`, for example:
+
+```
+uv run --python 3.12 --with hfst estnob2xml.py ../inc/est_nor_2005_utf8.txt --analyse
 ```
