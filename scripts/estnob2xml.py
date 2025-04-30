@@ -1,14 +1,21 @@
 #!/usr/bin/env python3
 
+# /// script
+# requires-python = ">=3.9"
+# dependencies = []
+# ///
+
 """Parse est-nob custom dictionary format to giella-style xml dictionary."""
 
 import argparse
 import re
 import sys
+from pathlib import Path
 from dataclasses import dataclass, field
 from collections import deque
 import xml.etree.ElementTree as ET
 
+DICT_DIR_PAT = re.compile(r"^dict-(?P<l1>\w\w\w)-(?P<l2>\w\w\w)")
 ERRORMSG_ANALYSE_BUT_NO_HFST_PACKAGE = """
 ERROR: --analyse given, but cannot load python library 'hfst', nor 'pyhfst'.
 Install one of them to use --analyse.
@@ -284,8 +291,8 @@ class Entry:
 
         return e
 
-    def try_find_pos_by_analysis(self, est_lookup, nob_lookup):
-        lookup_results = est_lookup(self.lemma)
+    def try_find_pos_by_analysis(self, l1_lookup, l2_lookup):
+        lookup_results = l1_lookup(self.lemma)
 
         possible_poses = set()
         all_poses = set()
@@ -301,14 +308,14 @@ class Entry:
         elif len(all_poses) == 1:
             self.pos = all_poses.pop()
         else:
-            # try nob..
+            # try l2..
             nob_lemma_match = set()
             nob_all = set()
             for t in self.translations:
                 if t.translation is None:
                     continue
 
-                for result in nob_lookup(t.translation):
+                for result in l2_lookup(t.translation):
                     word_form, pos, *rest_tags = result.split("+")
                     if word_form == t.translation:
                         nob_lemma_match.add(pos)
@@ -320,6 +327,32 @@ class Entry:
                 self.pos = nob_lemma_match.pop()
             #elif len(nob_all) == 1:
             #    self.pos = nob_all.pop()
+
+
+def find_direction(given):
+    """Figure out from the environment which dictionary this is,
+    i.e. is it est-nob, or nob-est?"""
+    # anders: this may possibly also be determined from the input file,
+    # but that would require the argparse type to be a path, instead of
+    # a filetype
+    if given == "auto":
+        p = Path(".").resolve()
+        for part in p.parts[::-1]:
+            if m := DICT_DIR_PAT.match(part):
+                l1, l2 = m.groups()
+                if l1 == "nob" and l2 == "est" or l1 == "est" and l2 == "nob":
+                    return l1, l2
+        sys.exit(
+            "Error: Cannot determine if we're in the est-nob, or nob-est "
+            "dictionary. (cannot find neither 'dict-nob-est', nor "
+            "'dict-est-nob' in the current working directory\n"
+            "Hint: Either go to the dict-nob-est or dict-est-nob directory, "
+            "or rename the directory you're in to one of those -- or "
+            "explicitly give the direction using the --direction argument "
+            "to the script"
+        )
+    else:
+        return given[0:3], given[3:6]
 
 
 def parse_args():
@@ -341,29 +374,38 @@ def parse_args():
         help="Run analysis on lemmas to find missing poses.",
         action="store_true",
     )
+    parser.add_argument(
+        "--direction",
+        choices=["nobest", "estnob", "auto"],
+        default="auto",
+        help=(
+            "which language direction this dictionary goes in. by default "
+            "'auto', which will determine the direction from the directory "
+            "name of the current working directory."
+        ),
+    )
     args = parser.parse_args()
     return args
 
 
 def main():
     args = parse_args()
+    direction = find_direction(args.direction)
 
     if args.analyse:
         load_fst = get_fst_loader()
         if load_fst is None:
             sys.exit(ERRORMSG_ANALYSE_BUT_NO_HFST_PACKAGE)
-        est_fst_lookup = load_fst("est", "analyser-gt-desc.hfstol")
-        nob_fst_lookup = load_fst("nob", "analyser-gt-desc.hfstol")
+        l1_lookup = load_fst(direction[0], "analyser-gt-desc.hfstol")
+        l2_lookup = load_fst(direction[1], "analyser-gt-desc.hfstol")
 
     r = ET.Element("r")
     for bulk in read_bulks(args.input):
         entry = Entry.from_bulk(bulk, analyse=args.analyse)
-        if args.analyse:
-            missing_pos = (entry.pos == "A|N" or entry.pos is None)
-            if missing_pos and args.analyse:
-                entry.try_find_pos_by_analysis(est_fst_lookup, nob_fst_lookup)
-        e = entry.to_xml()
-        if e is not None:
+        missing_pos = (entry.pos == "A|N" or entry.pos is None)
+        if args.analyse and missing_pos:
+            entry.try_find_pos_by_analysis(l1_lookup, l2_lookup)
+        if (e := entry.to_xml()) is not None:
             r.append(e)
 
     ET.indent(r)
