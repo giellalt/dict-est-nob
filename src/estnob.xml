@@ -123,7 +123,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">aadressbüroo</l>
+      <l pos="A|N">aadressbüroo</l>
     </lg>
     <mg>
       <tg>
@@ -447,7 +447,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">aastakasum</l>
+      <l pos="A|N">aastakasum</l>
     </lg>
     <mg>
       <tg>
@@ -589,7 +589,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">aastasaak</l>
+      <l pos="A|N">aastasaak</l>
     </lg>
     <mg>
       <tg>
@@ -756,7 +756,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">abi-_2</l>
+      <l>abi-_2</l>
     </lg>
     <mg>
       <tg>
@@ -841,7 +841,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">abieluleping</l>
+      <l pos="A|N">abieluleping</l>
     </lg>
     <mg>
       <tg>
@@ -861,7 +861,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">abielurikkumine</l>
+      <l pos="A|N">abielurikkumine</l>
     </lg>
     <mg>
       <tg>
@@ -871,7 +871,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">abielutunnistus</l>
+      <l pos="A|N">abielutunnistus</l>
     </lg>
     <mg>
       <tg>
@@ -977,7 +977,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">abistamisleping</l>
+      <l pos="A|N">abistamisleping</l>
     </lg>
     <mg>
       <tg>
@@ -1047,7 +1047,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">abitöö</l>
+      <l pos="A|N">abitöö</l>
     </lg>
     <mg>
       <tg>
@@ -1495,7 +1495,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">aedviljasupp</l>
+      <l pos="A|N">aedviljasupp</l>
     </lg>
     <mg>
       <tg>
@@ -1722,7 +1722,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">aegrelee</l>
+      <l pos="A|N">aegrelee</l>
     </lg>
     <mg>
       <tg>
@@ -1978,7 +1978,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">aga_1</l>
+      <l>aga_1</l>
     </lg>
     <mg>
       <tg>
@@ -1993,7 +1993,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">aga_2</l>
+      <l>aga_2</l>
     </lg>
     <mg>
       <tg>
@@ -2381,7 +2381,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ahjuküte</l>
+      <l pos="A|N">ahjuküte</l>
     </lg>
     <mg>
       <tg>
@@ -2401,7 +2401,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ahjuroop</l>
+      <l pos="A|N">ahjuroop</l>
     </lg>
     <mg>
       <tg>
@@ -2721,7 +2721,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">aiatööriist</l>
+      <l pos="A|N">aiatööriist</l>
     </lg>
     <mg>
       <tg>
@@ -2857,7 +2857,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">aineolümpiaad</l>
+      <l pos="A|N">aineolümpiaad</l>
     </lg>
     <mg>
       <tg>
@@ -2985,7 +2985,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A|N">ainurakne</l>
+      <l pos="A">ainurakne</l>
     </lg>
     <mg>
       <tg>
@@ -3228,7 +3228,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ajakirjanduskeel</l>
+      <l pos="A|N">ajakirjanduskeel</l>
     </lg>
     <mg>
       <tg>
@@ -3336,7 +3336,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ajalookäsitus</l>
+      <l pos="A|N">ajalookäsitus</l>
     </lg>
     <mg>
       <tg>
@@ -3607,7 +3607,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ajaviitekirjandus</l>
+      <l pos="A|N">ajaviitekirjandus</l>
     </lg>
     <mg>
       <tg>
@@ -3723,7 +3723,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ajukoor</l>
+      <l pos="A|N">ajukoor</l>
     </lg>
     <mg>
       <tg>
@@ -3812,7 +3812,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ajuvapustus</l>
+      <l pos="A|N">ajuvapustus</l>
     </lg>
     <mg>
       <tg>
@@ -4127,7 +4127,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">akuðöör</l>
+      <l pos="A|N">akuðöör</l>
     </lg>
     <mg>
       <tg>
@@ -4232,7 +4232,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">alahuul</l>
+      <l pos="A|N">alahuul</l>
     </lg>
     <mg>
       <tg>
@@ -4379,7 +4379,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">alalõualuu</l>
+      <l pos="A|N">alalõualuu</l>
     </lg>
     <mg>
       <tg>
@@ -5335,7 +5335,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">alkoholimüük</l>
+      <l pos="A|N">alkoholimüük</l>
     </lg>
     <mg>
       <tg>
@@ -5733,7 +5733,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">allilmaliider</l>
+      <l pos="A|N">allilmaliider</l>
     </lg>
     <mg>
       <tg>
@@ -5758,7 +5758,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">alljääkalapüük</l>
+      <l pos="A|N">alljääkalapüük</l>
     </lg>
     <mg>
       <tg>
@@ -6600,7 +6600,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ametihüve</l>
+      <l pos="A|N">ametihüve</l>
     </lg>
     <mg>
       <tg>
@@ -6685,7 +6685,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ametisaladus</l>
+      <l pos="A|N">ametisaladus</l>
     </lg>
     <mg>
       <tg>
@@ -7427,7 +7427,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ankrukoht</l>
+      <l pos="A|N">ankrukoht</l>
     </lg>
     <mg>
       <tg>
@@ -8602,7 +8602,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">armuandmispalve</l>
+      <l pos="A|N">armuandmispalve</l>
     </lg>
     <mg>
       <tg>
@@ -9350,7 +9350,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">arvutigraafika</l>
+      <l pos="A|N">arvutigraafika</l>
     </lg>
     <mg>
       <tg>
@@ -9949,7 +9949,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">assortiikarp</l>
+      <l pos="A|N">assortiikarp</l>
     </lg>
     <mg>
       <tg>
@@ -11507,7 +11507,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">auvahtkond</l>
+      <l pos="A|N">auvahtkond</l>
     </lg>
     <mg>
       <tg>
@@ -12117,7 +12117,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">baarikülastaja</l>
+      <l pos="A|N">baarikülastaja</l>
     </lg>
     <mg>
       <tg>
@@ -12211,7 +12211,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">baklaþaan</l>
+      <l pos="A|N">baklaþaan</l>
     </lg>
     <mg>
       <tg>
@@ -12271,7 +12271,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">baldahhiinvoodi</l>
+      <l pos="A|N">baldahhiinvoodi</l>
     </lg>
     <mg>
       <tg>
@@ -12444,7 +12444,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bambusevõrsed</l>
+      <l pos="A|N">bambusevõrsed</l>
     </lg>
     <mg>
       <tg>
@@ -12737,7 +12737,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">beebibuum</l>
+      <l pos="A|N">beebibuum</l>
     </lg>
     <mg>
       <tg>
@@ -12837,7 +12837,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bensiinipaak</l>
+      <l pos="A|N">bensiinipaak</l>
     </lg>
     <mg>
       <tg>
@@ -13265,7 +13265,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">boorhape</l>
+      <l pos="A|N">boorhape</l>
     </lg>
     <mg>
       <tg>
@@ -13510,7 +13510,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">briljantroheline</l>
+      <l pos="A|N">briljantroheline</l>
     </lg>
     <mg>
       <tg>
@@ -13763,7 +13763,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bulvarikirjandus</l>
+      <l pos="A|N">bulvarikirjandus</l>
     </lg>
     <mg>
       <tg>
@@ -14434,7 +14434,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dessantväelane</l>
+      <l pos="A|N">dessantväelane</l>
     </lg>
     <mg>
       <tg>
@@ -14449,7 +14449,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dessantvägi</l>
+      <l pos="A|N">dessantvägi</l>
     </lg>
     <mg>
       <tg>
@@ -14756,7 +14756,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">diivanipadi</l>
+      <l pos="A|N">diivanipadi</l>
     </lg>
     <mg>
       <tg>
@@ -15685,7 +15685,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">dþemper</l>
+      <l pos="A|N">dþemper</l>
     </lg>
     <mg>
       <tg>
@@ -15814,7 +15814,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">duðikardin</l>
+      <l pos="A|N">duðikardin</l>
     </lg>
     <mg>
       <tg>
@@ -17436,7 +17436,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">eelinformatsioon</l>
+      <l pos="A|N">eelinformatsioon</l>
     </lg>
     <mg>
       <tg>
@@ -17456,7 +17456,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">eelisaktsia</l>
+      <l pos="A|N">eelisaktsia</l>
     </lg>
     <mg>
       <tg>
@@ -17667,7 +17667,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">eelpost</l>
+      <l pos="A|N">eelpost</l>
     </lg>
     <mg>
       <tg>
@@ -17770,7 +17770,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">eeluurimisvangistus</l>
+      <l pos="A|N">eeluurimisvangistus</l>
     </lg>
     <mg>
       <tg>
@@ -18930,7 +18930,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">ei</l>
+      <l>ei</l>
     </lg>
     <mg>
       <tg>
@@ -19495,7 +19495,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">eksperthinnang</l>
+      <l pos="A|N">eksperthinnang</l>
     </lg>
     <mg>
       <tg>
@@ -19583,7 +19583,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">ekstra</l>
+      <l>ekstra</l>
     </lg>
     <mg>
       <tg>
@@ -20521,7 +20521,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">elukallidus</l>
+      <l pos="A|N">elukallidus</l>
     </lg>
     <mg>
       <tg>
@@ -21364,7 +21364,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">emulsioonvärv</l>
+      <l pos="A|N">emulsioonvärv</l>
     </lg>
     <mg>
       <tg>
@@ -21374,7 +21374,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">enam_1</l>
+      <l pos="A|N">enam_1</l>
     </lg>
     <mg>
       <tg>
@@ -21650,7 +21650,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">energiatarvitus</l>
+      <l pos="A|N">energiatarvitus</l>
     </lg>
     <mg>
       <tg>
@@ -21660,7 +21660,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">energiavõsa</l>
+      <l pos="A|N">energiavõsa</l>
     </lg>
     <mg>
       <tg>
@@ -21950,7 +21950,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">enne_2</l>
+      <l>enne_2</l>
     </lg>
     <mg>
       <tg>
@@ -23533,7 +23533,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">esikteos</l>
+      <l pos="A|N">esikteos</l>
     </lg>
     <mg>
       <tg>
@@ -23558,7 +23558,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">esilatern</l>
+      <l pos="A|N">esilatern</l>
     </lg>
     <mg>
       <tg>
@@ -24403,7 +24403,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">ettemääratud</l>
+      <l>ettemääratud</l>
     </lg>
     <mg>
       <tg>
@@ -24513,7 +24513,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ettevaatusabinõu</l>
+      <l pos="A|N">ettevaatusabinõu</l>
     </lg>
     <mg>
       <tg>
@@ -24627,7 +24627,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">eukalüptiõli</l>
+      <l pos="A|N">eukalüptiõli</l>
     </lg>
     <mg>
       <tg>
@@ -24770,7 +24770,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">faasinihe</l>
+      <l pos="A|N">faasinihe</l>
     </lg>
     <mg>
       <tg>
@@ -24835,7 +24835,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">faktiviga</l>
+      <l pos="A|N">faktiviga</l>
     </lg>
     <mg>
       <tg>
@@ -25319,7 +25319,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">filminäitleja</l>
+      <l pos="A|N">filminäitleja</l>
     </lg>
     <mg>
       <tg>
@@ -26319,7 +26319,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gastronoomiakauplus</l>
+      <l>gastronoomiakauplus</l>
     </lg>
     <mg>
       <tg>
@@ -26691,7 +26691,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">granaadiheitja</l>
+      <l pos="A|N">granaadiheitja</l>
     </lg>
     <mg>
       <tg>
@@ -26810,7 +26810,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gripihaige</l>
+      <l pos="A|N">gripihaige</l>
     </lg>
     <mg>
       <tg>
@@ -26863,7 +26863,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grupipilt</l>
+      <l pos="A|N">grupipilt</l>
     </lg>
     <mg>
       <tg>
@@ -27126,7 +27126,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">haamrilöök</l>
+      <l pos="A|N">haamrilöök</l>
     </lg>
     <mg>
       <tg>
@@ -27359,7 +27359,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">haavlipüss</l>
+      <l pos="A|N">haavlipüss</l>
     </lg>
     <mg>
       <tg>
@@ -27675,7 +27675,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">haiguspuhkus</l>
+      <l>haiguspuhkus</l>
     </lg>
     <mg>
       <tg>
@@ -27801,7 +27801,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">hajali</l>
+      <l>hajali</l>
     </lg>
     <mg>
       <tg>
@@ -28213,7 +28213,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">halearmas</l>
+      <l>halearmas</l>
     </lg>
     <mg>
       <tg>
@@ -28954,7 +28954,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hapuoblikas</l>
+      <l pos="A|N">hapuoblikas</l>
     </lg>
     <mg>
       <tg>
@@ -29034,7 +29034,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hardushetk</l>
+      <l pos="A|N">hardushetk</l>
     </lg>
     <mg>
       <tg>
@@ -29615,7 +29615,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">harrastusfotograaf</l>
+      <l pos="A|N">harrastusfotograaf</l>
     </lg>
     <mg>
       <tg>
@@ -29709,7 +29709,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">haruraamatukogu</l>
+      <l pos="A|N">haruraamatukogu</l>
     </lg>
     <mg>
       <tg>
@@ -30220,7 +30220,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">heategevuskontsert</l>
+      <l pos="A|N">heategevuskontsert</l>
     </lg>
     <mg>
       <tg>
@@ -30446,7 +30446,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">heinapalavik</l>
+      <l pos="A|N">heinapalavik</l>
     </lg>
     <mg>
       <tg>
@@ -30794,7 +30794,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">helihark</l>
+      <l pos="A|N">helihark</l>
     </lg>
     <mg>
       <tg>
@@ -31382,7 +31382,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hetkemulje</l>
+      <l pos="A|N">hetkemulje</l>
     </lg>
     <mg>
       <tg>
@@ -32031,7 +32031,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">hing_1</l>
+      <l pos="A|N">hing_1</l>
     </lg>
     <mg>
       <tg>
@@ -32988,7 +32988,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hokikepp</l>
+      <l pos="A|N">hokikepp</l>
     </lg>
     <mg>
       <tg>
@@ -33158,7 +33158,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hommikvõimlemine</l>
+      <l pos="A|N">hommikvõimlemine</l>
     </lg>
     <mg>
       <tg>
@@ -33453,7 +33453,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hoolekandeasutus</l>
+      <l pos="A|N">hoolekandeasutus</l>
     </lg>
     <mg>
       <tg>
@@ -33894,7 +33894,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hotelliarve</l>
+      <l pos="A|N">hotelliarve</l>
     </lg>
     <mg>
       <tg>
@@ -33904,7 +33904,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hotellikaart</l>
+      <l pos="A|N">hotellikaart</l>
     </lg>
     <mg>
       <tg>
@@ -33914,7 +33914,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hotellipidaja</l>
+      <l pos="A|N">hotellipidaja</l>
     </lg>
     <mg>
       <tg>
@@ -34273,7 +34273,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">hull</l>
+      <l pos="A|N">hull</l>
     </lg>
     <mg>
       <tg>
@@ -34327,7 +34327,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">hullumeelne</l>
+      <l pos="A|N">hullumeelne</l>
     </lg>
     <mg>
       <tg>
@@ -34504,7 +34504,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hundinui</l>
+      <l pos="A|N">hundinui</l>
     </lg>
     <mg>
       <tg>
@@ -34681,7 +34681,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">huulhein</l>
+      <l pos="A|N">huulhein</l>
     </lg>
     <mg>
       <tg>
@@ -35293,7 +35293,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hädaabinõu</l>
+      <l pos="A|N">hädaabinõu</l>
     </lg>
     <mg>
       <tg>
@@ -35358,7 +35358,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hädapidur</l>
+      <l pos="A|N">hädapidur</l>
     </lg>
     <mg>
       <tg>
@@ -36080,7 +36080,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hügieeniside</l>
+      <l pos="A|N">hügieeniside</l>
     </lg>
     <mg>
       <tg>
@@ -36543,7 +36543,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">idaeurooplane</l>
+      <l pos="A|N">idaeurooplane</l>
     </lg>
     <mg>
       <tg>
@@ -36717,7 +36717,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ideekavand</l>
+      <l pos="A|N">ideekavand</l>
     </lg>
     <mg>
       <tg>
@@ -36747,7 +36747,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">identiteediprobleem</l>
+      <l pos="A|N">identiteediprobleem</l>
     </lg>
     <mg>
       <tg>
@@ -38030,7 +38030,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ilmamuutus</l>
+      <l>ilmamuutus</l>
     </lg>
     <mg>
       <tg>
@@ -38320,7 +38320,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ilupõõsas</l>
+      <l pos="A|N">ilupõõsas</l>
     </lg>
     <mg>
       <tg>
@@ -38383,7 +38383,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ilutaim</l>
+      <l pos="A|N">ilutaim</l>
     </lg>
     <mg>
       <tg>
@@ -39035,7 +39035,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">infoleke</l>
+      <l pos="A|N">infoleke</l>
     </lg>
     <mg>
       <tg>
@@ -39242,7 +39242,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">inimpelglik</l>
+      <l pos="A|N">inimpelglik</l>
     </lg>
     <mg>
       <tg>
@@ -39837,7 +39837,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">invasport</l>
+      <l pos="A|N">invasport</l>
     </lg>
     <mg>
       <tg>
@@ -40110,7 +40110,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">isane</l>
+      <l pos="A|N">isane</l>
     </lg>
     <mg>
       <tg>
@@ -40154,7 +40154,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">ise_1</l>
+      <l>ise_1</l>
     </lg>
     <mg>
       <tg>
@@ -40202,7 +40202,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">ise_2</l>
+      <l>ise_2</l>
     </lg>
     <mg>
       <tg>
@@ -40476,7 +40476,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">iseseisvusliikumine</l>
+      <l pos="A|N">iseseisvusliikumine</l>
     </lg>
     <mg>
       <tg>
@@ -40686,7 +40686,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">isikukultus</l>
+      <l>isikukultus</l>
     </lg>
     <mg>
       <tg>
@@ -41739,7 +41739,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">jahikaubad</l>
+      <l pos="A|N">jahikaubad</l>
     </lg>
     <mg>
       <tg>
@@ -41794,7 +41794,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">jahisadam</l>
+      <l pos="A|N">jahisadam</l>
     </lg>
     <mg>
       <tg>
@@ -41900,7 +41900,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">jahumardikas</l>
+      <l pos="A|N">jahumardikas</l>
     </lg>
     <mg>
       <tg>
@@ -42146,7 +42146,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">jalaselg</l>
+      <l pos="A|N">jalaselg</l>
     </lg>
     <mg>
       <tg>
@@ -42190,7 +42190,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">jalaväemiin</l>
+      <l pos="A|N">jalaväemiin</l>
     </lg>
     <mg>
       <tg>
@@ -43987,7 +43987,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">juhtimisstiil</l>
+      <l pos="A|N">juhtimisstiil</l>
     </lg>
     <mg>
       <tg>
@@ -44213,7 +44213,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">juhuvedu</l>
+      <l pos="A|N">juhuvedu</l>
     </lg>
     <mg>
       <tg>
@@ -44223,7 +44223,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">juhuveobuss</l>
+      <l pos="A|N">juhuveobuss</l>
     </lg>
     <mg>
       <tg>
@@ -44666,7 +44666,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">justiitsmõrv</l>
+      <l pos="A|N">justiitsmõrv</l>
     </lg>
     <mg>
       <tg>
@@ -44739,7 +44739,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">jutt_1</l>
+      <l pos="A|N">jutt_1</l>
     </lg>
     <mg>
       <tg>
@@ -44758,7 +44758,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">jutt_2</l>
+      <l pos="A|N">jutt_2</l>
     </lg>
     <mg>
       <tg>
@@ -45009,7 +45009,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">juukselõikus</l>
+      <l>juukselõikus</l>
     </lg>
     <mg>
       <tg>
@@ -45190,7 +45190,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">juurdehindlus</l>
+      <l>juurdehindlus</l>
     </lg>
     <mg>
       <tg>
@@ -45310,7 +45310,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">juuremärk</l>
+      <l pos="A|N">juuremärk</l>
     </lg>
     <mg>
       <tg>
@@ -45444,7 +45444,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">juurviljasupp</l>
+      <l pos="A|N">juurviljasupp</l>
     </lg>
     <mg>
       <tg>
@@ -46412,7 +46412,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">jälitusmaania</l>
+      <l pos="A|N">jälitusmaania</l>
     </lg>
     <mg>
       <tg>
@@ -47165,7 +47165,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">järjejutt</l>
+      <l pos="A|N">järjejutt</l>
     </lg>
     <mg>
       <tg>
@@ -47427,7 +47427,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">järvekarp</l>
+      <l pos="A|N">järvekarp</l>
     </lg>
     <mg>
       <tg>
@@ -47815,7 +47815,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">jäänaasklid</l>
+      <l pos="A|N">jäänaasklid</l>
     </lg>
     <mg>
       <tg>
@@ -47875,7 +47875,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">jäärajasõit</l>
+      <l pos="A|N">jäärajasõit</l>
     </lg>
     <mg>
       <tg>
@@ -48076,7 +48076,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaablirike</l>
+      <l pos="A|N">kaablirike</l>
     </lg>
     <mg>
       <tg>
@@ -48457,7 +48457,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaaneümbris</l>
+      <l pos="A|N">kaaneümbris</l>
     </lg>
     <mg>
       <tg>
@@ -48947,7 +48947,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaaskannataja</l>
+      <l pos="A|N">kaaskannataja</l>
     </lg>
     <mg>
       <tg>
@@ -49194,7 +49194,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaasvestleja</l>
+      <l pos="A|N">kaasvestleja</l>
     </lg>
     <mg>
       <tg>
@@ -49605,7 +49605,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Ex/V">kaebealune</l>
+      <l pos="A|N">kaebealune</l>
     </lg>
     <mg>
       <tg>
@@ -49687,7 +49687,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaelarihm</l>
+      <l pos="A|N">kaelarihm</l>
     </lg>
     <mg>
       <tg>
@@ -50804,7 +50804,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kahtlusalune</l>
+      <l pos="A|N">kahtlusalune</l>
     </lg>
     <mg>
       <tg>
@@ -50900,7 +50900,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kahuriliha</l>
+      <l pos="A|N">kahuriliha</l>
     </lg>
     <mg>
       <tg>
@@ -51216,7 +51216,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaitsekolledþ</l>
+      <l pos="A|N">kaitsekolledþ</l>
     </lg>
     <mg>
       <tg>
@@ -51555,7 +51555,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaksikõde</l>
+      <l pos="A|N">kaksikõde</l>
     </lg>
     <mg>
       <tg>
@@ -51814,7 +51814,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaldanõlv</l>
+      <l pos="A|N">kaldanõlv</l>
     </lg>
     <mg>
       <tg>
@@ -52191,7 +52191,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kallak</l>
+      <l pos="A|N">kallak</l>
     </lg>
     <mg>
       <tg>
@@ -52535,7 +52535,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaltsakproletariaat</l>
+      <l pos="A|N">kaltsakproletariaat</l>
     </lg>
     <mg>
       <tg>
@@ -53184,7 +53184,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kang_2</l>
+      <l pos="A|N">kang_2</l>
     </lg>
     <mg>
       <tg>
@@ -53653,7 +53653,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kannusoojendaja</l>
+      <l pos="A|N">kannusoojendaja</l>
     </lg>
     <mg>
       <tg>
@@ -54067,7 +54067,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kapsauss</l>
+      <l pos="A|N">kapsauss</l>
     </lg>
     <mg>
       <tg>
@@ -54250,7 +54250,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kardaanvõll</l>
+      <l pos="A|N">kardaanvõll</l>
     </lg>
     <mg>
       <tg>
@@ -54304,7 +54304,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kardinapuu</l>
+      <l pos="A|N">kardinapuu</l>
     </lg>
     <mg>
       <tg>
@@ -54650,7 +54650,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">karjerist</l>
+      <l pos="A|N">karjerist</l>
     </lg>
     <mg>
       <tg>
@@ -54717,7 +54717,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">karjäär_2</l>
+      <l pos="A|N">karjäär_2</l>
     </lg>
     <mg>
       <tg>
@@ -54771,7 +54771,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">karm_2</l>
+      <l pos="A|N">karm_2</l>
     </lg>
     <mg>
       <tg>
@@ -55064,7 +55064,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kartulipealsed</l>
+      <l pos="A|N">kartulipealsed</l>
     </lg>
     <mg>
       <tg>
@@ -55089,7 +55089,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kartulipüree</l>
+      <l pos="A|N">kartulipüree</l>
     </lg>
     <mg>
       <tg>
@@ -55129,7 +55129,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">karukold</l>
+      <l pos="A|N">karukold</l>
     </lg>
     <mg>
       <tg>
@@ -55851,7 +55851,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kasuahnus</l>
+      <l>kasuahnus</l>
     </lg>
     <mg>
       <tg>
@@ -56192,7 +56192,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kasvuhooneefekt</l>
+      <l pos="A|N">kasvuhooneefekt</l>
     </lg>
     <mg>
       <tg>
@@ -56202,7 +56202,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kasvulava</l>
+      <l pos="A|N">kasvulava</l>
     </lg>
     <mg>
       <tg>
@@ -56617,7 +56617,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">katlakivi</l>
+      <l pos="A|N">katlakivi</l>
     </lg>
     <mg>
       <tg>
@@ -56742,7 +56742,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">katsejärk</l>
+      <l pos="A|N">katsejärk</l>
     </lg>
     <mg>
       <tg>
@@ -57057,7 +57057,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaubanduspiirangud</l>
+      <l pos="A|N">kaubanduspiirangud</l>
     </lg>
     <mg>
       <tg>
@@ -57067,7 +57067,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaubandussidemed</l>
+      <l pos="A|N">kaubandussidemed</l>
     </lg>
     <mg>
       <tg>
@@ -57077,7 +57077,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaubaproov</l>
+      <l pos="A|N">kaubaproov</l>
     </lg>
     <mg>
       <tg>
@@ -57510,7 +57510,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kaunis_1</l>
+      <l>kaunis_1</l>
     </lg>
     <mg>
       <tg>
@@ -58284,7 +58284,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">keeleanne</l>
+      <l pos="A|N">keeleanne</l>
     </lg>
     <mg>
       <tg>
@@ -58407,7 +58407,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">keelerühm</l>
+      <l pos="A|N">keelerühm</l>
     </lg>
     <mg>
       <tg>
@@ -58417,7 +58417,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">keelesugulus</l>
+      <l pos="A|N">keelesugulus</l>
     </lg>
     <mg>
       <tg>
@@ -58462,7 +58462,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">keeleuuendus</l>
+      <l pos="A|N">keeleuuendus</l>
     </lg>
     <mg>
       <tg>
@@ -58482,7 +58482,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">keeleviga</l>
+      <l pos="A|N">keeleviga</l>
     </lg>
     <mg>
       <tg>
@@ -59406,7 +59406,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kellamehhanism</l>
+      <l pos="A|N">kellamehhanism</l>
     </lg>
     <mg>
       <tg>
@@ -59420,7 +59420,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kellarihm</l>
+      <l pos="A|N">kellarihm</l>
     </lg>
     <mg>
       <tg>
@@ -59757,7 +59757,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kerge</l>
+      <l pos="A|N">kerge</l>
     </lg>
     <mg>
       <tg>
@@ -60088,7 +60088,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kesk-</l>
+      <l>kesk-</l>
     </lg>
     <mg>
       <tg>
@@ -60320,7 +60320,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">keskkonnakahjustused</l>
+      <l pos="A|N">keskkonnakahjustused</l>
     </lg>
     <mg>
       <tg>
@@ -60810,7 +60810,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kibe</l>
+      <l pos="A|N">kibe</l>
     </lg>
     <mg>
       <tg>
@@ -61279,7 +61279,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kiikhobu</l>
+      <l pos="A|N">kiikhobu</l>
     </lg>
     <mg>
       <tg>
@@ -61654,7 +61654,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kiirkursus</l>
+      <l>kiirkursus</l>
     </lg>
     <mg>
       <tg>
@@ -61722,7 +61722,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kiirtelegramm</l>
+      <l pos="A|N">kiirtelegramm</l>
     </lg>
     <mg>
       <tg>
@@ -62582,7 +62582,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kingalusikas</l>
+      <l pos="A|N">kingalusikas</l>
     </lg>
     <mg>
       <tg>
@@ -62649,7 +62649,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kinkeleping</l>
+      <l pos="A|N">kinkeleping</l>
     </lg>
     <mg>
       <tg>
@@ -62928,7 +62928,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kinoseanss</l>
+      <l pos="A|N">kinoseanss</l>
     </lg>
     <mg>
       <tg>
@@ -63279,7 +63279,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kirimale</l>
+      <l pos="A|N">kirimale</l>
     </lg>
     <mg>
       <tg>
@@ -63487,7 +63487,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kirjasõber</l>
+      <l pos="A|N">kirjasõber</l>
     </lg>
     <mg>
       <tg>
@@ -64146,7 +64146,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kiudpilv</l>
+      <l pos="A|N">kiudpilv</l>
     </lg>
     <mg>
       <tg>
@@ -64353,7 +64353,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kivipuravik</l>
+      <l pos="A|N">kivipuravik</l>
     </lg>
     <mg>
       <tg>
@@ -64895,7 +64895,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kliimaseade</l>
+      <l pos="A|N">kliimaseade</l>
     </lg>
     <mg>
       <tg>
@@ -65066,7 +65066,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">klosetipott</l>
+      <l pos="A|N">klosetipott</l>
     </lg>
     <mg>
       <tg>
@@ -65333,7 +65333,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kodarluu</l>
+      <l pos="A|N">kodarluu</l>
     </lg>
     <mg>
       <tg>
@@ -65375,7 +65375,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">koduarest</l>
+      <l pos="A|N">koduarest</l>
     </lg>
     <mg>
       <tg>
@@ -65485,7 +65485,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kodumasinad</l>
+      <l pos="A|N">kodumasinad</l>
     </lg>
     <mg>
       <tg>
@@ -66607,7 +66607,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kohus_1</l>
+      <l>kohus_1</l>
     </lg>
     <mg>
       <tg>
@@ -66754,7 +66754,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kohviautomaat</l>
+      <l pos="A|N">kohviautomaat</l>
     </lg>
     <mg>
       <tg>
@@ -66778,7 +66778,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kohvikoor</l>
+      <l pos="A|N">kohvikoor</l>
     </lg>
     <mg>
       <tg>
@@ -67898,7 +67898,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">koloniaalriik</l>
+      <l pos="A|N">koloniaalriik</l>
     </lg>
     <mg>
       <tg>
@@ -69066,7 +69066,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kontaktlääts</l>
+      <l pos="A|N">kontaktlääts</l>
     </lg>
     <mg>
       <tg>
@@ -69195,7 +69195,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kontsaplekk</l>
+      <l pos="A|N">kontsaplekk</l>
     </lg>
     <mg>
       <tg>
@@ -69333,7 +69333,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">koogikarp</l>
+      <l pos="A|N">koogikarp</l>
     </lg>
     <mg>
       <tg>
@@ -69357,7 +69357,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kook_2</l>
+      <l pos="A|N">kook_2</l>
     </lg>
     <mg>
       <tg>
@@ -69371,7 +69371,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kookospähkel</l>
+      <l pos="A|N">kookospähkel</l>
     </lg>
     <mg>
       <tg>
@@ -69746,7 +69746,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kooperatiivkorter</l>
+      <l pos="A|N">kooperatiivkorter</l>
     </lg>
     <mg>
       <tg>
@@ -69766,7 +69766,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">koor_1</l>
+      <l pos="A|N">koor_1</l>
     </lg>
     <mg>
       <tg>
@@ -69803,7 +69803,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">koorekann</l>
+      <l pos="A|N">koorekann</l>
     </lg>
     <mg>
       <tg>
@@ -69847,7 +69847,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">koorevenis</l>
+      <l pos="A|N">koorevenis</l>
     </lg>
     <mg>
       <tg>
@@ -70325,7 +70325,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kopsumaht</l>
+      <l pos="A|N">kopsumaht</l>
     </lg>
     <mg>
       <tg>
@@ -70853,7 +70853,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">korraarmastaja</l>
+      <l pos="A|N">korraarmastaja</l>
     </lg>
     <mg>
       <tg>
@@ -71147,7 +71147,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">korrosioonitõrje</l>
+      <l pos="A|N">korrosioonitõrje</l>
     </lg>
     <mg>
       <tg>
@@ -71463,7 +71463,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kosmeetikasalong</l>
+      <l pos="A|N">kosmeetikasalong</l>
     </lg>
     <mg>
       <tg>
@@ -72288,7 +72288,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kriminaalseadusandlus</l>
+      <l>kriminaalseadusandlus</l>
     </lg>
     <mg>
       <tg>
@@ -72661,7 +72661,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kruubipuder</l>
+      <l pos="A|N">kruubipuder</l>
     </lg>
     <mg>
       <tg>
@@ -73091,7 +73091,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kui</l>
+      <l>kui</l>
     </lg>
     <mg>
       <tg>
@@ -73576,7 +73576,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kukekannus</l>
+      <l pos="A|N">kukekannus</l>
     </lg>
     <mg>
       <tg>
@@ -73741,7 +73741,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kuldkala</l>
+      <l pos="A|N">kuldkala</l>
     </lg>
     <mg>
       <tg>
@@ -73872,7 +73872,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kulinaarkauplus</l>
+      <l>kulinaarkauplus</l>
     </lg>
     <mg>
       <tg>
@@ -74082,7 +74082,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kultuurkarjamaa</l>
+      <l pos="A|N">kultuurkarjamaa</l>
     </lg>
     <mg>
       <tg>
@@ -74120,7 +74120,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kulu_2</l>
+      <l pos="A|N">kulu_2</l>
     </lg>
     <mg>
       <tg>
@@ -74199,7 +74199,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kulupõleng</l>
+      <l pos="A|N">kulupõleng</l>
     </lg>
     <mg>
       <tg>
@@ -74764,7 +74764,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kunstkiud</l>
+      <l pos="A|N">kunstkiud</l>
     </lg>
     <mg>
       <tg>
@@ -74980,7 +74980,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kurd_1</l>
+      <l pos="A|N">kurd_1</l>
     </lg>
     <mg>
       <tg>
@@ -75050,7 +75050,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kurgisalat</l>
+      <l pos="A|N">kurgisalat</l>
     </lg>
     <mg>
       <tg>
@@ -75992,7 +75992,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kuuereväär</l>
+      <l pos="A|N">kuuereväär</l>
     </lg>
     <mg>
       <tg>
@@ -76032,7 +76032,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kuukress</l>
+      <l pos="A|N">kuukress</l>
     </lg>
     <mg>
       <tg>
@@ -76470,7 +76470,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kuupilet</l>
+      <l pos="A|N">kuupilet</l>
     </lg>
     <mg>
       <tg>
@@ -77440,7 +77440,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kõnedefekt</l>
+      <l pos="A|N">kõnedefekt</l>
     </lg>
     <mg>
       <tg>
@@ -77754,7 +77754,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kõrgusekartus</l>
+      <l>kõrgusekartus</l>
     </lg>
     <mg>
       <tg>
@@ -78190,7 +78190,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kõrvavalu</l>
+      <l pos="A|N">kõrvavalu</l>
     </lg>
     <mg>
       <tg>
@@ -78372,7 +78372,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kõvakskeedetud</l>
+      <l>kõvakskeedetud</l>
     </lg>
     <mg>
       <tg>
@@ -78631,7 +78631,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">käepigistus</l>
+      <l pos="A|N">käepigistus</l>
     </lg>
     <mg>
       <tg>
@@ -78862,7 +78862,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kährikkoer</l>
+      <l pos="A|N">kährikkoer</l>
     </lg>
     <mg>
       <tg>
@@ -79127,7 +79127,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">käitumishälve</l>
+      <l pos="A|N">käitumishälve</l>
     </lg>
     <mg>
       <tg>
@@ -79230,7 +79230,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">käoking</l>
+      <l pos="A|N">käoking</l>
     </lg>
     <mg>
       <tg>
@@ -79240,7 +79240,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">käopoeg</l>
+      <l pos="A|N">käopoeg</l>
     </lg>
     <mg>
       <tg>
@@ -79399,7 +79399,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kärbsepiits</l>
+      <l pos="A|N">kärbsepiits</l>
     </lg>
     <mg>
       <tg>
@@ -79409,7 +79409,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kärbseseen</l>
+      <l pos="A|N">kärbseseen</l>
     </lg>
     <mg>
       <tg>
@@ -79674,7 +79674,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">käsipagas</l>
+      <l pos="A|N">käsipagas</l>
     </lg>
     <mg>
       <tg>
@@ -79977,7 +79977,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kätekõverdused</l>
+      <l pos="A|N">kätekõverdused</l>
     </lg>
     <mg>
       <tg>
@@ -80282,7 +80282,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">köisraudtee</l>
+      <l pos="A|N">köisraudtee</l>
     </lg>
     <mg>
       <tg>
@@ -80777,7 +80777,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">küljepeegel</l>
+      <l pos="A|N">küljepeegel</l>
     </lg>
     <mg>
       <tg>
@@ -81542,7 +81542,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">küpsustunnistus</l>
+      <l pos="A|N">küpsustunnistus</l>
     </lg>
     <mg>
       <tg>
@@ -82625,7 +82625,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">laelamp</l>
+      <l pos="A|N">laelamp</l>
     </lg>
     <mg>
       <tg>
@@ -82635,7 +82635,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">laeluuk</l>
+      <l pos="A|N">laeluuk</l>
     </lg>
     <mg>
       <tg>
@@ -82645,7 +82645,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">laemaal</l>
+      <l pos="A|N">laemaal</l>
     </lg>
     <mg>
       <tg>
@@ -82822,7 +82822,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">laevakere</l>
+      <l pos="A|N">laevakere</l>
     </lg>
     <mg>
       <tg>
@@ -82852,7 +82852,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">laevalgus</l>
+      <l>laevalgus</l>
     </lg>
     <mg>
       <tg>
@@ -82952,7 +82952,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">laevaühendus</l>
+      <l pos="A|N">laevaühendus</l>
     </lg>
     <mg>
       <tg>
@@ -83584,7 +83584,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lahkumispidu</l>
+      <l pos="A|N">lahkumispidu</l>
     </lg>
     <mg>
       <tg>
@@ -83842,7 +83842,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">lahus_2</l>
+      <l>lahus_2</l>
     </lg>
     <mg>
       <tg>
@@ -84613,7 +84613,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lakaluuk</l>
+      <l pos="A|N">lakaluuk</l>
     </lg>
     <mg>
       <tg>
@@ -84633,7 +84633,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">lakk_1</l>
+      <l pos="A|N">lakk_1</l>
     </lg>
     <mg>
       <tg>
@@ -84891,7 +84891,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lamamistool</l>
+      <l pos="A|N">lamamistool</l>
     </lg>
     <mg>
       <tg>
@@ -85024,7 +85024,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lambikuppel</l>
+      <l pos="A|N">lambikuppel</l>
     </lg>
     <mg>
       <tg>
@@ -85452,7 +85452,7 @@
   </e>
   <e>
     <lg>
-      <l>lapi</l>
+      <l pos="A">lapi</l>
     </lg>
     <mg>
       <tg>
@@ -85991,7 +85991,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Cmp/e">lastehaigus</l>
+      <l>lastehaigus</l>
     </lg>
     <mg>
       <tg>
@@ -86041,7 +86041,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Cmp/e">lastesoodustus</l>
+      <l pos="A|N">lastesoodustus</l>
     </lg>
     <mg>
       <tg>
@@ -86272,7 +86272,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lauakõne</l>
+      <l pos="A|N">lauakõne</l>
     </lg>
     <mg>
       <tg>
@@ -86486,7 +86486,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">laulatussõrmus</l>
+      <l pos="A|N">laulatussõrmus</l>
     </lg>
     <mg>
       <tg>
@@ -86714,7 +86714,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lauseliige</l>
+      <l pos="A|N">lauseliige</l>
     </lg>
     <mg>
       <tg>
@@ -86853,7 +86853,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lavakurk</l>
+      <l pos="A|N">lavakurk</l>
     </lg>
     <mg>
       <tg>
@@ -87032,7 +87032,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">leegiheitja</l>
+      <l pos="A|N">leegiheitja</l>
     </lg>
     <mg>
       <tg>
@@ -87188,7 +87188,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">leeripidu</l>
+      <l pos="A|N">leeripidu</l>
     </lg>
     <mg>
       <tg>
@@ -87323,7 +87323,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lehekiosk</l>
+      <l pos="A|N">lehekiosk</l>
     </lg>
     <mg>
       <tg>
@@ -88053,7 +88053,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">leivategu</l>
+      <l pos="A|N">leivategu</l>
     </lg>
     <mg>
       <tg>
@@ -88132,7 +88132,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lemmikharrastus</l>
+      <l pos="A|N">lemmikharrastus</l>
     </lg>
     <mg>
       <tg>
@@ -88142,7 +88142,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lemmikroog</l>
+      <l pos="A|N">lemmikroog</l>
     </lg>
     <mg>
       <tg>
@@ -88218,7 +88218,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lendpall</l>
+      <l pos="A|N">lendpall</l>
     </lg>
     <mg>
       <tg>
@@ -88356,7 +88356,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lennusport</l>
+      <l pos="A|N">lennusport</l>
     </lg>
     <mg>
       <tg>
@@ -88629,7 +88629,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lesepõli</l>
+      <l pos="A|N">lesepõli</l>
     </lg>
     <mg>
       <tg>
@@ -89945,7 +89945,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">liigeseside</l>
+      <l pos="A|N">liigeseside</l>
     </lg>
     <mg>
       <tg>
@@ -91741,7 +91741,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lipsusõlm</l>
+      <l pos="A|N">lipsusõlm</l>
     </lg>
     <mg>
       <tg>
@@ -91841,7 +91841,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lisa-</l>
+      <l>lisa-</l>
     </lg>
     <mg>
       <tg>
@@ -92689,7 +92689,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lokitangid</l>
+      <l pos="A|N">lokitangid</l>
     </lg>
     <mg>
       <tg>
@@ -92815,7 +92815,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">loll</l>
+      <l pos="A|N">loll</l>
     </lg>
     <mg>
       <tg>
@@ -92905,7 +92905,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">lombakas</l>
+      <l pos="A|N">lombakas</l>
     </lg>
     <mg>
       <tg>
@@ -93084,7 +93084,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">loode-</l>
+      <l>loode-</l>
     </lg>
     <mg>
       <tg>
@@ -93361,7 +93361,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">loom_1</l>
+      <l pos="A|N">loom_1</l>
     </lg>
     <mg>
       <tg>
@@ -93589,7 +93589,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">loomeliidud</l>
+      <l>loomeliidud</l>
     </lg>
     <mg>
       <tg>
@@ -94419,7 +94419,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lugejapilet</l>
+      <l pos="A|N">lugejapilet</l>
     </lg>
     <mg>
       <tg>
@@ -94478,7 +94478,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lugemishimuline</l>
+      <l pos="A|N">lugemishimuline</l>
     </lg>
     <mg>
       <tg>
@@ -94782,7 +94782,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">luksusese</l>
+      <l pos="A|N">luksusese</l>
     </lg>
     <mg>
       <tg>
@@ -94890,7 +94890,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lumelobjakas</l>
+      <l pos="A|N">lumelobjakas</l>
     </lg>
     <mg>
       <tg>
@@ -94945,7 +94945,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lumesõda</l>
+      <l pos="A|N">lumesõda</l>
     </lg>
     <mg>
       <tg>
@@ -95646,7 +95646,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">luurevõrk</l>
+      <l pos="A|N">luurevõrk</l>
     </lg>
     <mg>
       <tg>
@@ -95691,7 +95691,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">luuüdi</l>
+      <l pos="A|N">luuüdi</l>
     </lg>
     <mg>
       <tg>
@@ -95716,7 +95716,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lõbuhimu</l>
+      <l pos="A|N">lõbuhimu</l>
     </lg>
     <mg>
       <tg>
@@ -95780,7 +95780,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lõbustuspark</l>
+      <l pos="A|N">lõbustuspark</l>
     </lg>
     <mg>
       <tg>
@@ -95790,7 +95790,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lõbusõidulaev</l>
+      <l pos="A|N">lõbusõidulaev</l>
     </lg>
     <mg>
       <tg>
@@ -95800,7 +95800,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lõbusõit</l>
+      <l pos="A|N">lõbusõit</l>
     </lg>
     <mg>
       <tg>
@@ -96001,7 +96001,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lõhestustegevus</l>
+      <l pos="A|N">lõhestustegevus</l>
     </lg>
     <mg>
       <tg>
@@ -96305,7 +96305,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lõikelaud</l>
+      <l pos="A|N">lõikelaud</l>
     </lg>
     <mg>
       <tg>
@@ -96542,7 +96542,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lõngatokk</l>
+      <l pos="A|N">lõngatokk</l>
     </lg>
     <mg>
       <tg>
@@ -97161,7 +97161,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lõvilõug</l>
+      <l pos="A|N">lõvilõug</l>
     </lg>
     <mg>
       <tg>
@@ -97365,7 +97365,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">läbikäidav</l>
+      <l pos="A|N">läbikäidav</l>
     </lg>
     <mg>
       <tg>
@@ -97399,7 +97399,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">läbiküpsenud</l>
+      <l>läbiküpsenud</l>
     </lg>
     <mg>
       <tg>
@@ -97409,7 +97409,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">läbiligunenud</l>
+      <l>läbiligunenud</l>
     </lg>
     <mg>
       <tg>
@@ -97434,7 +97434,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">läbilõikeinimene</l>
+      <l pos="A|N">läbilõikeinimene</l>
     </lg>
     <mg>
       <tg>
@@ -98494,7 +98494,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">löökpill</l>
+      <l pos="A|N">löökpill</l>
     </lg>
     <mg>
       <tg>
@@ -98888,7 +98888,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lümfisõlm</l>
+      <l pos="A|N">lümfisõlm</l>
     </lg>
     <mg>
       <tg>
@@ -98962,7 +98962,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lüpsimasin</l>
+      <l pos="A|N">lüpsimasin</l>
     </lg>
     <mg>
       <tg>
@@ -99240,7 +99240,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">maadeuurija</l>
+      <l pos="A|N">maadeuurija</l>
     </lg>
     <mg>
       <tg>
@@ -99342,7 +99342,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">maagimaardla</l>
+      <l pos="A|N">maagimaardla</l>
     </lg>
     <mg>
       <tg>
@@ -99754,7 +99754,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">maamiin</l>
+      <l pos="A|N">maamiin</l>
     </lg>
     <mg>
       <tg>
@@ -100184,7 +100184,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">maasikavälu</l>
+      <l pos="A|N">maasikavälu</l>
     </lg>
     <mg>
       <tg>
@@ -100236,7 +100236,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">maastikuarhitektuur</l>
+      <l pos="A|N">maastikuarhitektuur</l>
     </lg>
     <mg>
       <tg>
@@ -100415,7 +100415,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">maaühendus</l>
+      <l pos="A|N">maaühendus</l>
     </lg>
     <mg>
       <tg>
@@ -100797,7 +100797,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">magistriõpe</l>
+      <l pos="A|N">magistriõpe</l>
     </lg>
     <mg>
       <tg>
@@ -100827,7 +100827,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">magnetkaart</l>
+      <l pos="A|N">magnetkaart</l>
     </lg>
     <mg>
       <tg>
@@ -101105,7 +101105,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mahlaauruti</l>
+      <l pos="A|N">mahlaauruti</l>
     </lg>
     <mg>
       <tg>
@@ -101135,7 +101135,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mahlapress</l>
+      <l pos="A|N">mahlapress</l>
     </lg>
     <mg>
       <tg>
@@ -101480,7 +101480,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">maisikepike</l>
+      <l pos="A|N">maisikepike</l>
     </lg>
     <mg>
       <tg>
@@ -101611,7 +101611,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">maitseomadus</l>
+      <l pos="A|N">maitseomadus</l>
     </lg>
     <mg>
       <tg>
@@ -101780,7 +101780,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">majakavaht</l>
+      <l pos="A|N">majakavaht</l>
     </lg>
     <mg>
       <tg>
@@ -102076,7 +102076,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">majutuspaik</l>
+      <l pos="A|N">majutuspaik</l>
     </lg>
     <mg>
       <tg>
@@ -102966,7 +102966,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mansi_1</l>
+      <l pos="A|N">mansi_1</l>
     </lg>
     <mg>
       <tg>
@@ -103055,7 +103055,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">maomahl</l>
+      <l pos="A|N">maomahl</l>
     </lg>
     <mg>
       <tg>
@@ -103155,7 +103155,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">margialbum</l>
+      <l pos="A|N">margialbum</l>
     </lg>
     <mg>
       <tg>
@@ -103555,7 +103555,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">marukarsklane</l>
+      <l pos="A|N">marukarsklane</l>
     </lg>
     <mg>
       <tg>
@@ -103833,7 +103833,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">massihävitusrelv</l>
+      <l pos="A|N">massihävitusrelv</l>
     </lg>
     <mg>
       <tg>
@@ -103863,7 +103863,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">massikultuur</l>
+      <l pos="A|N">massikultuur</l>
     </lg>
     <mg>
       <tg>
@@ -104077,7 +104077,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">matkajuht</l>
+      <l pos="A|N">matkajuht</l>
     </lg>
     <mg>
       <tg>
@@ -104321,7 +104321,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">matusebüroo</l>
+      <l pos="A|N">matusebüroo</l>
     </lg>
     <mg>
       <tg>
@@ -104464,7 +104464,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">meekook</l>
+      <l pos="A|N">meekook</l>
     </lg>
     <mg>
       <tg>
@@ -105996,7 +105996,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">meresõit</l>
+      <l pos="A|N">meresõit</l>
     </lg>
     <mg>
       <tg>
@@ -106006,7 +106006,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mereuurimine</l>
+      <l pos="A|N">mereuurimine</l>
     </lg>
     <mg>
       <tg>
@@ -106016,7 +106016,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">merevaik</l>
+      <l pos="A|N">merevaik</l>
     </lg>
     <mg>
       <tg>
@@ -106467,7 +106467,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">metsakombinaat</l>
+      <l pos="A|N">metsakombinaat</l>
     </lg>
     <mg>
       <tg>
@@ -106855,7 +106855,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">miiniotsija</l>
+      <l pos="A|N">miiniotsija</l>
     </lg>
     <mg>
       <tg>
@@ -107361,7 +107361,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">minevikuihalus</l>
+      <l pos="A|N">minevikuihalus</l>
     </lg>
     <mg>
       <tg>
@@ -108182,7 +108182,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">moedemonstratsioon</l>
+      <l pos="A|N">moedemonstratsioon</l>
     </lg>
     <mg>
       <tg>
@@ -108544,7 +108544,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">moondriietus</l>
+      <l pos="A|N">moondriietus</l>
     </lg>
     <mg>
       <tg>
@@ -108936,7 +108936,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mugavuslipp</l>
+      <l pos="A|N">mugavuslipp</l>
     </lg>
     <mg>
       <tg>
@@ -109813,7 +109813,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">murdvaras</l>
+      <l pos="A|N">murdvaras</l>
     </lg>
     <mg>
       <tg>
@@ -110017,7 +110017,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">muruniiduk</l>
+      <l pos="A|N">muruniiduk</l>
     </lg>
     <mg>
       <tg>
@@ -111573,7 +111573,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mõttepunktid</l>
+      <l pos="A|N">mõttepunktid</l>
     </lg>
     <mg>
       <tg>
@@ -111662,7 +111662,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mõõganeelaja</l>
+      <l pos="A|N">mõõganeelaja</l>
     </lg>
     <mg>
       <tg>
@@ -111778,7 +111778,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">mäda</l>
+      <l pos="A|N">mäda</l>
     </lg>
     <mg>
       <tg>
@@ -111857,7 +111857,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mädapaise</l>
+      <l pos="A|N">mädapaise</l>
     </lg>
     <mg>
       <tg>
@@ -111897,7 +111897,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mäejalam</l>
+      <l pos="A|N">mäejalam</l>
     </lg>
     <mg>
       <tg>
@@ -111907,7 +111907,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mäejutlus</l>
+      <l>mäejutlus</l>
     </lg>
     <mg>
       <tg>
@@ -111927,7 +111927,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mäekühm</l>
+      <l pos="A|N">mäekühm</l>
     </lg>
     <mg>
       <tg>
@@ -112017,7 +112017,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mäetööstus</l>
+      <l>mäetööstus</l>
     </lg>
     <mg>
       <tg>
@@ -112075,7 +112075,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mägikarjamaa</l>
+      <l pos="A|N">mägikarjamaa</l>
     </lg>
     <mg>
       <tg>
@@ -112566,7 +112566,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">männiriisikas</l>
+      <l pos="A|N">männiriisikas</l>
     </lg>
     <mg>
       <tg>
@@ -112601,7 +112601,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">märatsushoog</l>
+      <l pos="A|N">märatsushoog</l>
     </lg>
     <mg>
       <tg>
@@ -112970,7 +112970,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">märtsikelluke</l>
+      <l pos="A|N">märtsikelluke</l>
     </lg>
     <mg>
       <tg>
@@ -114259,7 +114259,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nabanöör</l>
+      <l pos="A|N">nabanöör</l>
     </lg>
     <mg>
       <tg>
@@ -114505,7 +114505,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">naftatanker</l>
+      <l pos="A|N">naftatanker</l>
     </lg>
     <mg>
       <tg>
@@ -114593,7 +114593,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nahahooldus</l>
+      <l>nahahooldus</l>
     </lg>
     <mg>
       <tg>
@@ -114666,7 +114666,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nahkehistöö</l>
+      <l pos="A|N">nahkehistöö</l>
     </lg>
     <mg>
       <tg>
@@ -114686,7 +114686,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nahkjakk</l>
+      <l pos="A|N">nahkjakk</l>
     </lg>
     <mg>
       <tg>
@@ -114696,7 +114696,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nahkkindad</l>
+      <l pos="A|N">nahkkindad</l>
     </lg>
     <mg>
       <tg>
@@ -114875,7 +114875,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">naisliikumine</l>
+      <l pos="A|N">naisliikumine</l>
     </lg>
     <mg>
       <tg>
@@ -114975,7 +114975,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">naisteriided</l>
+      <l pos="A|N">naisteriided</l>
     </lg>
     <mg>
       <tg>
@@ -114985,7 +114985,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">naistetualett</l>
+      <l pos="A|N">naistetualett</l>
     </lg>
     <mg>
       <tg>
@@ -115086,7 +115086,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nakkushaigla</l>
+      <l pos="A|N">nakkushaigla</l>
     </lg>
     <mg>
       <tg>
@@ -115224,7 +115224,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">napp_1</l>
+      <l pos="A|N">napp_1</l>
     </lg>
     <mg>
       <tg>
@@ -115292,7 +115292,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">napsivend</l>
+      <l pos="A|N">napsivend</l>
     </lg>
     <mg>
       <tg>
@@ -115491,7 +115491,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">natuke</l>
+      <l pos="A|N">natuke</l>
     </lg>
     <mg>
       <tg>
@@ -115646,7 +115646,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">neelukoht</l>
+      <l pos="A|N">neelukoht</l>
     </lg>
     <mg>
       <tg>
@@ -115686,7 +115686,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">neeruhaige</l>
+      <l pos="A|N">neeruhaige</l>
     </lg>
     <mg>
       <tg>
@@ -115696,7 +115696,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">neerukivi</l>
+      <l pos="A|N">neerukivi</l>
     </lg>
     <mg>
       <tg>
@@ -116221,7 +116221,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">nii_1</l>
+      <l>nii_1</l>
     </lg>
     <mg>
       <tg>
@@ -116253,7 +116253,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">nii_2</l>
+      <l>nii_2</l>
     </lg>
     <mg>
       <tg>
@@ -117223,7 +117223,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ninaverejooks</l>
+      <l pos="A|N">ninaverejooks</l>
     </lg>
     <mg>
       <tg>
@@ -117362,7 +117362,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">niudevöö</l>
+      <l pos="A|N">niudevöö</l>
     </lg>
     <mg>
       <tg>
@@ -117419,7 +117419,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">noh</l>
+      <l>noh</l>
     </lg>
     <mg>
       <tg>
@@ -118284,7 +118284,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">nukk_2</l>
+      <l pos="A|N">nukk_2</l>
     </lg>
     <mg>
       <tg>
@@ -118570,7 +118570,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nurgadiivan</l>
+      <l pos="A|N">nurgadiivan</l>
     </lg>
     <mg>
       <tg>
@@ -118599,7 +118599,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nurgakivipanek</l>
+      <l pos="A|N">nurgakivipanek</l>
     </lg>
     <mg>
       <tg>
@@ -119253,7 +119253,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nõgesesupp</l>
+      <l pos="A|N">nõgesesupp</l>
     </lg>
     <mg>
       <tg>
@@ -119943,7 +119943,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nõudepesija</l>
+      <l pos="A|N">nõudepesija</l>
     </lg>
     <mg>
       <tg>
@@ -119953,7 +119953,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nõudepesulapp</l>
+      <l pos="A|N">nõudepesulapp</l>
     </lg>
     <mg>
       <tg>
@@ -119973,7 +119973,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nõuderest</l>
+      <l pos="A|N">nõuderest</l>
     </lg>
     <mg>
       <tg>
@@ -121075,7 +121075,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">näohooldus</l>
+      <l>näohooldus</l>
     </lg>
     <mg>
       <tg>
@@ -121187,7 +121187,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">näpuosavus</l>
+      <l pos="A|N">näpuosavus</l>
     </lg>
     <mg>
       <tg>
@@ -122038,7 +122038,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">oasupp</l>
+      <l pos="A|N">oasupp</l>
     </lg>
     <mg>
       <tg>
@@ -122288,7 +122288,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">odrajahupuder</l>
+      <l pos="A|N">odrajahupuder</l>
     </lg>
     <mg>
       <tg>
@@ -122759,7 +122759,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ohutusabinõu</l>
+      <l pos="A|N">ohutusabinõu</l>
     </lg>
     <mg>
       <tg>
@@ -123113,7 +123113,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">okastraattõke</l>
+      <l pos="A|N">okastraattõke</l>
     </lg>
     <mg>
       <tg>
@@ -123266,7 +123266,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">oksjonihaamer</l>
+      <l pos="A|N">oksjonihaamer</l>
     </lg>
     <mg>
       <tg>
@@ -123320,7 +123320,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">oktaaniarv</l>
+      <l pos="A|N">oktaaniarv</l>
     </lg>
     <mg>
       <tg>
@@ -123944,7 +123944,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">olmetingimused</l>
+      <l pos="A|N">olmetingimused</l>
     </lg>
     <mg>
       <tg>
@@ -124580,7 +124580,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">omandiinstinkt</l>
+      <l pos="A|N">omandiinstinkt</l>
     </lg>
     <mg>
       <tg>
@@ -124958,7 +124958,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">onkoloogiahaigla</l>
+      <l pos="A|N">onkoloogiahaigla</l>
     </lg>
     <mg>
       <tg>
@@ -125184,7 +125184,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ooperietendus</l>
+      <l pos="A|N">ooperietendus</l>
     </lg>
     <mg>
       <tg>
@@ -125740,7 +125740,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">orbitaaljaam</l>
+      <l pos="A|N">orbitaaljaam</l>
     </lg>
     <mg>
       <tg>
@@ -125835,7 +125835,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">orduriik</l>
+      <l pos="A|N">orduriik</l>
     </lg>
     <mg>
       <tg>
@@ -126250,7 +126250,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">orkestriruum</l>
+      <l pos="A|N">orkestriruum</l>
     </lg>
     <mg>
       <tg>
@@ -126350,7 +126350,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">orusein</l>
+      <l pos="A|N">orusein</l>
     </lg>
     <mg>
       <tg>
@@ -126589,7 +126589,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">osaraamat</l>
+      <l pos="A|N">osaraamat</l>
     </lg>
     <mg>
       <tg>
@@ -127215,7 +127215,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">otsas</l>
+      <l>otsas</l>
     </lg>
     <mg>
       <tg>
@@ -127662,7 +127662,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">otsustamisvabadus</l>
+      <l pos="A|N">otsustamisvabadus</l>
     </lg>
     <mg>
       <tg>
@@ -127915,7 +127915,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">paanikanupp</l>
+      <l pos="A|N">paanikanupp</l>
     </lg>
     <mg>
       <tg>
@@ -128114,7 +128114,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">paarkümmend</l>
+      <l>paarkümmend</l>
     </lg>
     <mg>
       <tg>
@@ -128238,7 +128238,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">paberkäterätik</l>
+      <l pos="A|N">paberkäterätik</l>
     </lg>
     <mg>
       <tg>
@@ -128248,7 +128248,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">paberraha</l>
+      <l pos="A|N">paberraha</l>
     </lg>
     <mg>
       <tg>
@@ -128505,7 +128505,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pagariäri</l>
+      <l pos="A|N">pagariäri</l>
     </lg>
     <mg>
       <tg>
@@ -128555,7 +128555,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pagasiriiul</l>
+      <l pos="A|N">pagasiriiul</l>
     </lg>
     <mg>
       <tg>
@@ -128914,7 +128914,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pahempoolne</l>
+      <l pos="A|N">pahempoolne</l>
     </lg>
     <mg>
       <tg>
@@ -129071,7 +129071,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">pai</l>
+      <l pos="A|N">pai</l>
     </lg>
     <mg>
       <tg>
@@ -129380,7 +129380,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">paistes</l>
+      <l>paistes</l>
     </lg>
     <mg>
       <tg>
@@ -129495,7 +129495,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pajalapid</l>
+      <l pos="A|N">pajalapid</l>
     </lg>
     <mg>
       <tg>
@@ -129595,7 +129595,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pakikäru</l>
+      <l pos="A|N">pakikäru</l>
     </lg>
     <mg>
       <tg>
@@ -129620,7 +129620,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pakiraam</l>
+      <l pos="A|N">pakiraam</l>
     </lg>
     <mg>
       <tg>
@@ -129675,7 +129675,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pakkepaber</l>
+      <l pos="A|N">pakkepaber</l>
     </lg>
     <mg>
       <tg>
@@ -129761,7 +129761,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">paks</l>
+      <l pos="A|N">paks</l>
     </lg>
     <mg>
       <tg>
@@ -130815,7 +130815,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pangapettur</l>
+      <l pos="A|N">pangapettur</l>
     </lg>
     <mg>
       <tg>
@@ -130845,7 +130845,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pangaseif</l>
+      <l pos="A|N">pangaseif</l>
     </lg>
     <mg>
       <tg>
@@ -130865,7 +130865,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pangaülekanne</l>
+      <l pos="A|N">pangaülekanne</l>
     </lg>
     <mg>
       <tg>
@@ -130919,7 +130919,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pankrannik</l>
+      <l pos="A|N">pankrannik</l>
     </lg>
     <mg>
       <tg>
@@ -131207,7 +131207,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">paraboolantenn</l>
+      <l pos="A|N">paraboolantenn</l>
     </lg>
     <mg>
       <tg>
@@ -131353,7 +131353,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">parandustöökoda</l>
+      <l pos="A|N">parandustöökoda</l>
     </lg>
     <mg>
       <tg>
@@ -131546,7 +131546,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">parem_1</l>
+      <l pos="A|N">parem_1</l>
     </lg>
     <mg>
       <tg>
@@ -131866,7 +131866,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">parmupill</l>
+      <l pos="A|N">parmupill</l>
     </lg>
     <mg>
       <tg>
@@ -132327,7 +132327,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pats</l>
+      <l pos="A|N">pats</l>
     </lg>
     <mg>
       <tg>
@@ -132365,7 +132365,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">patðokk</l>
+      <l pos="A|N">patðokk</l>
     </lg>
     <mg>
       <tg>
@@ -132375,7 +132375,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">patt_1</l>
+      <l pos="A|N">patt_1</l>
     </lg>
     <mg>
       <tg>
@@ -133777,7 +133777,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">peeneteraline</l>
+      <l pos="A|N">peeneteraline</l>
     </lg>
     <mg>
       <tg>
@@ -133822,7 +133822,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">peenmehhaanik</l>
+      <l pos="A|N">peenmehhaanik</l>
     </lg>
     <mg>
       <tg>
@@ -134645,7 +134645,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">peru</l>
+      <l pos="A|N">peru</l>
     </lg>
     <mg>
       <tg>
@@ -134974,7 +134974,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">petmiskatse</l>
+      <l pos="A|N">petmiskatse</l>
     </lg>
     <mg>
       <tg>
@@ -135352,7 +135352,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pidurdustee</l>
+      <l pos="A|N">pidurdustee</l>
     </lg>
     <mg>
       <tg>
@@ -135820,7 +135820,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">piimavuntsid</l>
+      <l pos="A|N">piimavuntsid</l>
     </lg>
     <mg>
       <tg>
@@ -136058,7 +136058,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">piiririkkuja</l>
+      <l pos="A|N">piiririkkuja</l>
     </lg>
     <mg>
       <tg>
@@ -136088,7 +136088,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">piiritsoon</l>
+      <l pos="A|N">piiritsoon</l>
     </lg>
     <mg>
       <tg>
@@ -136680,7 +136680,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pildialbum</l>
+      <l pos="A|N">pildialbum</l>
     </lg>
     <mg>
       <tg>
@@ -136765,7 +136765,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">piletikontrolör</l>
+      <l pos="A|N">piletikontrolör</l>
     </lg>
     <mg>
       <tg>
@@ -136818,7 +136818,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pilgupüüdja</l>
+      <l pos="A|N">pilgupüüdja</l>
     </lg>
     <mg>
       <tg>
@@ -137086,7 +137086,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">piltpostkaart</l>
+      <l pos="A|N">piltpostkaart</l>
     </lg>
     <mg>
       <tg>
@@ -138057,7 +138057,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">pits_3</l>
+      <l pos="A|N">pits_3</l>
     </lg>
     <mg>
       <tg>
@@ -138391,7 +138391,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">plank_3</l>
+      <l pos="A|N">plank_3</l>
     </lg>
     <mg>
       <tg>
@@ -138897,7 +138897,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">poehind</l>
+      <l pos="A|N">poehind</l>
     </lg>
     <mg>
       <tg>
@@ -139045,7 +139045,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">polaaruurija</l>
+      <l pos="A|N">polaaruurija</l>
     </lg>
     <mg>
       <tg>
@@ -139055,7 +139055,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">polaarvööde</l>
+      <l pos="A|N">polaarvööde</l>
     </lg>
     <mg>
       <tg>
@@ -139418,7 +139418,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">pool_4</l>
+      <l>pool_4</l>
     </lg>
     <mg>
       <tg>
@@ -140111,7 +140111,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">porilaud</l>
+      <l pos="A|N">porilaud</l>
     </lg>
     <mg>
       <tg>
@@ -140121,7 +140121,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">porilomp</l>
+      <l pos="A|N">porilomp</l>
     </lg>
     <mg>
       <tg>
@@ -140141,7 +140141,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">poritiib</l>
+      <l pos="A|N">poritiib</l>
     </lg>
     <mg>
       <tg>
@@ -140574,7 +140574,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">potiemand</l>
+      <l pos="A|N">potiemand</l>
     </lg>
     <mg>
       <tg>
@@ -140803,7 +140803,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">prahihunnik</l>
+      <l pos="A|N">prahihunnik</l>
     </lg>
     <mg>
       <tg>
@@ -141127,7 +141127,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A|N">prestiiþne</l>
+      <l pos="A">prestiiþne</l>
     </lg>
     <mg>
       <tg>
@@ -141305,7 +141305,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">prillisang</l>
+      <l pos="A|N">prillisang</l>
     </lg>
     <mg>
       <tg>
@@ -141315,7 +141315,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">prillitoos</l>
+      <l pos="A|N">prillitoos</l>
     </lg>
     <mg>
       <tg>
@@ -142013,7 +142013,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">protestiaktsioon</l>
+      <l pos="A|N">protestiaktsioon</l>
     </lg>
     <mg>
       <tg>
@@ -142142,7 +142142,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pruntsuu</l>
+      <l pos="A|N">pruntsuu</l>
     </lg>
     <mg>
       <tg>
@@ -142369,7 +142369,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">prügiðaht</l>
+      <l pos="A|N">prügiðaht</l>
     </lg>
     <mg>
       <tg>
@@ -142525,7 +142525,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">pude</l>
+      <l pos="A|N">pude</l>
     </lg>
     <mg>
       <tg>
@@ -142590,7 +142590,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pudelikork</l>
+      <l pos="A|N">pudelikork</l>
     </lg>
     <mg>
       <tg>
@@ -142632,7 +142632,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">pudikeel</l>
+      <l pos="A|N">pudikeel</l>
     </lg>
     <mg>
       <tg>
@@ -142856,7 +142856,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">puhastusvahend</l>
+      <l pos="A|N">puhastusvahend</l>
     </lg>
     <mg>
       <tg>
@@ -143278,7 +143278,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pulgajäätis</l>
+      <l>pulgajäätis</l>
     </lg>
     <mg>
       <tg>
@@ -143390,7 +143390,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pulmavanem</l>
+      <l pos="A|N">pulmavanem</l>
     </lg>
     <mg>
       <tg>
@@ -143798,7 +143798,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">purilend</l>
+      <l pos="A|N">purilend</l>
     </lg>
     <mg>
       <tg>
@@ -143818,7 +143818,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">purjelaud</l>
+      <l pos="A|N">purjelaud</l>
     </lg>
     <mg>
       <tg>
@@ -144224,7 +144224,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">putð</l>
+      <l pos="A|N">putð</l>
     </lg>
     <mg>
       <tg>
@@ -144682,7 +144682,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">puusaluu</l>
+      <l pos="A|N">puusaluu</l>
     </lg>
     <mg>
       <tg>
@@ -144833,7 +144833,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põdrakärbes</l>
+      <l pos="A|N">põdrakärbes</l>
     </lg>
     <mg>
       <tg>
@@ -144843,7 +144843,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põdramokk</l>
+      <l pos="A|N">põdramokk</l>
     </lg>
     <mg>
       <tg>
@@ -144883,7 +144883,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põdravasikas</l>
+      <l pos="A|N">põdravasikas</l>
     </lg>
     <mg>
       <tg>
@@ -145075,7 +145075,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põhiarv</l>
+      <l pos="A|N">põhiarv</l>
     </lg>
     <mg>
       <tg>
@@ -145177,7 +145177,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põhipalk</l>
+      <l pos="A|N">põhipalk</l>
     </lg>
     <mg>
       <tg>
@@ -145488,7 +145488,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põiepõletik</l>
+      <l pos="A|N">põiepõletik</l>
     </lg>
     <mg>
       <tg>
@@ -145663,7 +145663,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põldosi</l>
+      <l pos="A|N">põldosi</l>
     </lg>
     <mg>
       <tg>
@@ -146103,7 +146103,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põnevusjutt</l>
+      <l pos="A|N">põnevusjutt</l>
     </lg>
     <mg>
       <tg>
@@ -146152,7 +146152,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põrandaalune</l>
+      <l pos="A|N">põrandaalune</l>
     </lg>
     <mg>
       <tg>
@@ -146176,7 +146176,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põrandalamp</l>
+      <l pos="A|N">põrandalamp</l>
     </lg>
     <mg>
       <tg>
@@ -146307,7 +146307,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">põrkepiire</l>
+      <l pos="A|N">põrkepiire</l>
     </lg>
     <mg>
       <tg>
@@ -146721,7 +146721,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">päevaliblikas</l>
+      <l pos="A|N">päevaliblikas</l>
     </lg>
     <mg>
       <tg>
@@ -147432,7 +147432,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pärgarter</l>
+      <l pos="A|N">pärgarter</l>
     </lg>
     <mg>
       <tg>
@@ -147696,7 +147696,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pärjapanek</l>
+      <l pos="A|N">pärjapanek</l>
     </lg>
     <mg>
       <tg>
@@ -147724,7 +147724,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pärlikarp</l>
+      <l pos="A|N">pärlikarp</l>
     </lg>
     <mg>
       <tg>
@@ -148312,7 +148312,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">püha</l>
+      <l pos="A|N">püha</l>
     </lg>
     <mg>
       <tg>
@@ -148582,7 +148582,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">püksseelik</l>
+      <l pos="A|N">püksseelik</l>
     </lg>
     <mg>
       <tg>
@@ -149343,7 +149343,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rabarbrikook</l>
+      <l pos="A|N">rabarbrikook</l>
     </lg>
     <mg>
       <tg>
@@ -149575,7 +149575,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rahaannetus</l>
+      <l pos="A|N">rahaannetus</l>
     </lg>
     <mg>
       <tg>
@@ -149678,7 +149678,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rahapaja</l>
+      <l pos="A|N">rahapaja</l>
     </lg>
     <mg>
       <tg>
@@ -149778,7 +149778,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rahavahetus</l>
+      <l pos="A|N">rahavahetus</l>
     </lg>
     <mg>
       <tg>
@@ -149872,7 +149872,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">rahu_1</l>
+      <l pos="A|N">rahu_1</l>
     </lg>
     <mg>
       <tg>
@@ -150145,7 +150145,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rahuolukord</l>
+      <l pos="A|N">rahuolukord</l>
     </lg>
     <mg>
       <tg>
@@ -150170,7 +150170,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rahusobitaja</l>
+      <l pos="A|N">rahusobitaja</l>
     </lg>
     <mg>
       <tg>
@@ -150245,7 +150245,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rahuvõitlus</l>
+      <l>rahuvõitlus</l>
     </lg>
     <mg>
       <tg>
@@ -150881,7 +150881,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">raketibaas</l>
+      <l pos="A|N">raketibaas</l>
     </lg>
     <mg>
       <tg>
@@ -151230,7 +151230,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rannahotell</l>
+      <l pos="A|N">rannahotell</l>
     </lg>
     <mg>
       <tg>
@@ -151250,7 +151250,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rannakaitse</l>
+      <l pos="A|N">rannakaitse</l>
     </lg>
     <mg>
       <tg>
@@ -151260,7 +151260,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rannakalju</l>
+      <l pos="A|N">rannakalju</l>
     </lg>
     <mg>
       <tg>
@@ -151290,7 +151290,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rannavalvekaater</l>
+      <l pos="A|N">rannavalvekaater</l>
     </lg>
     <mg>
       <tg>
@@ -151415,7 +151415,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rapsiõli</l>
+      <l pos="A|N">rapsiõli</l>
     </lg>
     <mg>
       <tg>
@@ -151846,7 +151846,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rasunääre</l>
+      <l pos="A|N">rasunääre</l>
     </lg>
     <mg>
       <tg>
@@ -151957,7 +151957,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ratastraktor</l>
+      <l pos="A|N">ratastraktor</l>
     </lg>
     <mg>
       <tg>
@@ -152087,7 +152087,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rauaaeg</l>
+      <l pos="A|N">rauaaeg</l>
     </lg>
     <mg>
       <tg>
@@ -152097,7 +152097,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rauakaubad</l>
+      <l pos="A|N">rauakaubad</l>
     </lg>
     <mg>
       <tg>
@@ -152239,7 +152239,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">raudteesõlm</l>
+      <l pos="A|N">raudteesõlm</l>
     </lg>
     <mg>
       <tg>
@@ -152385,7 +152385,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ravikuurort</l>
+      <l pos="A|N">ravikuurort</l>
     </lg>
     <mg>
       <tg>
@@ -152443,7 +152443,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ravimküünal</l>
+      <l pos="A|N">ravimküünal</l>
     </lg>
     <mg>
       <tg>
@@ -152677,7 +152677,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">reavahe</l>
+      <l pos="A|N">reavahe</l>
     </lg>
     <mg>
       <tg>
@@ -152933,7 +152933,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">reesõit</l>
+      <l pos="A|N">reesõit</l>
     </lg>
     <mg>
       <tg>
@@ -153464,7 +153464,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">reisiparvlaev</l>
+      <l pos="A|N">reisiparvlaev</l>
     </lg>
     <mg>
       <tg>
@@ -153504,7 +153504,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">reisiväsimus</l>
+      <l pos="A|N">reisiväsimus</l>
     </lg>
     <mg>
       <tg>
@@ -153743,7 +153743,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">remonditöökoda</l>
+      <l pos="A|N">remonditöökoda</l>
     </lg>
     <mg>
       <tg>
@@ -153904,7 +153904,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">reoveepuhastus</l>
+      <l pos="A|N">reoveepuhastus</l>
     </lg>
     <mg>
       <tg>
@@ -154167,7 +154167,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">restoraniarve</l>
+      <l pos="A|N">restoraniarve</l>
     </lg>
     <mg>
       <tg>
@@ -154458,7 +154458,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ribitükk</l>
+      <l pos="A|N">ribitükk</l>
     </lg>
     <mg>
       <tg>
@@ -154582,7 +154582,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rihvelplekk</l>
+      <l pos="A|N">rihvelplekk</l>
     </lg>
     <mg>
       <tg>
@@ -154971,7 +154971,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">riigiomand</l>
+      <l pos="A|N">riigiomand</l>
     </lg>
     <mg>
       <tg>
@@ -155230,7 +155230,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">riistvara</l>
+      <l pos="A|N">riistvara</l>
     </lg>
     <mg>
       <tg>
@@ -155619,7 +155619,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">ringi</l>
+      <l>ringi</l>
     </lg>
     <mg>
       <tg>
@@ -155957,7 +155957,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">riskirühm</l>
+      <l pos="A|N">riskirühm</l>
     </lg>
     <mg>
       <tg>
@@ -156064,7 +156064,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ristiemand</l>
+      <l pos="A|N">ristiemand</l>
     </lg>
     <mg>
       <tg>
@@ -156246,7 +156246,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ristluuvalu</l>
+      <l pos="A|N">ristluuvalu</l>
     </lg>
     <mg>
       <tg>
@@ -156280,7 +156280,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ristpeakruvi</l>
+      <l pos="A|N">ristpeakruvi</l>
     </lg>
     <mg>
       <tg>
@@ -156343,7 +156343,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ristämblik</l>
+      <l pos="A|N">ristämblik</l>
     </lg>
     <mg>
       <tg>
@@ -157019,7 +157019,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">roolimõrtsukas</l>
+      <l pos="A|N">roolimõrtsukas</l>
     </lg>
     <mg>
       <tg>
@@ -157144,7 +157144,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">roosiaed</l>
+      <l pos="A|N">roosiaed</l>
     </lg>
     <mg>
       <tg>
@@ -157415,7 +157415,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rosinasai</l>
+      <l pos="A|N">rosinasai</l>
     </lg>
     <mg>
       <tg>
@@ -157609,7 +157609,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rulasõit</l>
+      <l pos="A|N">rulasõit</l>
     </lg>
     <mg>
       <tg>
@@ -157657,7 +157657,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rullbiskviit</l>
+      <l pos="A|N">rullbiskviit</l>
     </lg>
     <mg>
       <tg>
@@ -158083,7 +158083,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ruutuemand</l>
+      <l pos="A|N">ruutuemand</l>
     </lg>
     <mg>
       <tg>
@@ -159153,7 +159153,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rühmahinnaalandus</l>
+      <l pos="A|N">rühmahinnaalandus</l>
     </lg>
     <mg>
       <tg>
@@ -159212,7 +159212,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rünkpilv</l>
+      <l pos="A|N">rünkpilv</l>
     </lg>
     <mg>
       <tg>
@@ -159555,7 +159555,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">saadik_2</l>
+      <l>saadik_2</l>
     </lg>
     <mg>
       <tg>
@@ -159811,7 +159811,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">saanisõit</l>
+      <l pos="A|N">saanisõit</l>
     </lg>
     <mg>
       <tg>
@@ -160010,7 +160010,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">saatekulud</l>
+      <l pos="A|N">saatekulud</l>
     </lg>
     <mg>
       <tg>
@@ -160466,7 +160466,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sadulavöö</l>
+      <l pos="A|N">sadulavöö</l>
     </lg>
     <mg>
       <tg>
@@ -160695,7 +160695,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sahkpööre</l>
+      <l pos="A|N">sahkpööre</l>
     </lg>
     <mg>
       <tg>
@@ -160767,7 +160767,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">saialill</l>
+      <l pos="A|N">saialill</l>
     </lg>
     <mg>
       <tg>
@@ -160996,7 +160996,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">salajoodik</l>
+      <l pos="A|N">salajoodik</l>
     </lg>
     <mg>
       <tg>
@@ -161056,7 +161056,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">salakütt</l>
+      <l pos="A|N">salakütt</l>
     </lg>
     <mg>
       <tg>
@@ -162064,7 +162064,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">saripilet</l>
+      <l pos="A|N">saripilet</l>
     </lg>
     <mg>
       <tg>
@@ -162195,7 +162195,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sarvkest</l>
+      <l pos="A|N">sarvkest</l>
     </lg>
     <mg>
       <tg>
@@ -162386,7 +162386,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">seade_2</l>
+      <l pos="A|N">seade_2</l>
     </lg>
     <mg>
       <tg>
@@ -162861,7 +162861,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">seebialus</l>
+      <l pos="A|N">seebialus</l>
     </lg>
     <mg>
       <tg>
@@ -162871,7 +162871,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">seebikarp</l>
+      <l pos="A|N">seebikarp</l>
     </lg>
     <mg>
       <tg>
@@ -162901,7 +162901,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">seebivaht</l>
+      <l pos="A|N">seebivaht</l>
     </lg>
     <mg>
       <tg>
@@ -162911,7 +162911,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">seedehäire</l>
+      <l pos="A|N">seedehäire</l>
     </lg>
     <mg>
       <tg>
@@ -163121,7 +163121,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">seenemürgistus</l>
+      <l pos="A|N">seenemürgistus</l>
     </lg>
     <mg>
       <tg>
@@ -164125,7 +164125,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">seletussõnaraamat</l>
+      <l pos="A|N">seletussõnaraamat</l>
     </lg>
     <mg>
       <tg>
@@ -164658,7 +164658,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">seltskonnatants</l>
+      <l pos="A|N">seltskonnatants</l>
     </lg>
     <mg>
       <tg>
@@ -165527,7 +165527,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sigaretiots</l>
+      <l pos="A|N">sigaretiots</l>
     </lg>
     <mg>
       <tg>
@@ -165537,7 +165537,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sigaretipakk</l>
+      <l pos="A|N">sigaretipakk</l>
     </lg>
     <mg>
       <tg>
@@ -165642,7 +165642,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">signaalkell</l>
+      <l pos="A|N">signaalkell</l>
     </lg>
     <mg>
       <tg>
@@ -165918,7 +165918,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">siiasõit</l>
+      <l pos="A|N">siiasõit</l>
     </lg>
     <mg>
       <tg>
@@ -166140,7 +166140,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">siis</l>
+      <l>siis</l>
     </lg>
     <mg>
       <tg>
@@ -167023,7 +167023,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sinepiplaaster</l>
+      <l pos="A|N">sinepiplaaster</l>
     </lg>
     <mg>
       <tg>
@@ -167033,7 +167033,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">singivõileib</l>
+      <l pos="A|N">singivõileib</l>
     </lg>
     <mg>
       <tg>
@@ -167232,7 +167232,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">sirge</l>
+      <l pos="A|N">sirge</l>
     </lg>
     <mg>
       <tg>
@@ -168205,7 +168205,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sisukord</l>
+      <l pos="A|N">sisukord</l>
     </lg>
     <mg>
       <tg>
@@ -168980,7 +168980,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sokihoidja</l>
+      <l pos="A|N">sokihoidja</l>
     </lg>
     <mg>
       <tg>
@@ -169403,7 +169403,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">sool_1</l>
+      <l pos="A|N">sool_1</l>
     </lg>
     <mg>
       <tg>
@@ -169442,7 +169442,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">soolaleivapidu</l>
+      <l pos="A|N">soolaleivapidu</l>
     </lg>
     <mg>
       <tg>
@@ -169477,7 +169477,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">soolatoos</l>
+      <l pos="A|N">soolatoos</l>
     </lg>
     <mg>
       <tg>
@@ -169619,7 +169619,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">soomusväed</l>
+      <l pos="A|N">soomusväed</l>
     </lg>
     <mg>
       <tg>
@@ -169872,7 +169872,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sopakirjandus</l>
+      <l pos="A|N">sopakirjandus</l>
     </lg>
     <mg>
       <tg>
@@ -169973,7 +169973,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sordiaretus</l>
+      <l pos="A|N">sordiaretus</l>
     </lg>
     <mg>
       <tg>
@@ -170414,7 +170414,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">spordireporter</l>
+      <l pos="A|N">spordireporter</l>
     </lg>
     <mg>
       <tg>
@@ -170718,7 +170718,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">stardijoon</l>
+      <l pos="A|N">stardijoon</l>
     </lg>
     <mg>
       <tg>
@@ -170892,7 +170892,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">stopptuli</l>
+      <l>stopptuli</l>
     </lg>
     <mg>
       <tg>
@@ -171430,7 +171430,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">suhtlemisvahend</l>
+      <l pos="A|N">suhtlemisvahend</l>
     </lg>
     <mg>
       <tg>
@@ -171614,7 +171614,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sukasilm</l>
+      <l pos="A|N">sukasilm</l>
     </lg>
     <mg>
       <tg>
@@ -171638,7 +171638,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sukavarras</l>
+      <l pos="A|N">sukavarras</l>
     </lg>
     <mg>
       <tg>
@@ -171711,7 +171711,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">sula_2</l>
+      <l pos="A|N">sula_2</l>
     </lg>
     <mg>
       <tg>
@@ -172057,7 +172057,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sulgkaal</l>
+      <l pos="A|N">sulgkaal</l>
     </lg>
     <mg>
       <tg>
@@ -172496,7 +172496,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">supilusikas</l>
+      <l pos="A|N">supilusikas</l>
     </lg>
     <mg>
       <tg>
@@ -172752,7 +172752,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">surmatunnistus</l>
+      <l pos="A|N">surmatunnistus</l>
     </lg>
     <mg>
       <tg>
@@ -172932,7 +172932,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">surveabinõu</l>
+      <l pos="A|N">surveabinõu</l>
     </lg>
     <mg>
       <tg>
@@ -173578,7 +173578,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">suusamääre</l>
+      <l pos="A|N">suusamääre</l>
     </lg>
     <mg>
       <tg>
@@ -173801,7 +173801,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">suveniiripood</l>
+      <l pos="A|N">suveniiripood</l>
     </lg>
     <mg>
       <tg>
@@ -174400,7 +174400,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sõjakohus</l>
+      <l>sõjakohus</l>
     </lg>
     <mg>
       <tg>
@@ -174494,7 +174494,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sõjatribunal</l>
+      <l pos="A|N">sõjatribunal</l>
     </lg>
     <mg>
       <tg>
@@ -174752,7 +174752,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">sõmer</l>
+      <l pos="A|N">sõmer</l>
     </lg>
     <mg>
       <tg>
@@ -175531,7 +175531,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">säilivusaeg</l>
+      <l pos="A|N">säilivusaeg</l>
     </lg>
     <mg>
       <tg>
@@ -175596,7 +175596,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">särgisaba</l>
+      <l pos="A|N">särgisaba</l>
     </lg>
     <mg>
       <tg>
@@ -175754,7 +175754,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sääsetõrjevahend</l>
+      <l pos="A|N">sääsetõrjevahend</l>
     </lg>
     <mg>
       <tg>
@@ -175845,7 +175845,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">söekaevur</l>
+      <l pos="A|N">söekaevur</l>
     </lg>
     <mg>
       <tg>
@@ -176128,7 +176128,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">söötühik</l>
+      <l pos="A|N">söötühik</l>
     </lg>
     <mg>
       <tg>
@@ -176241,7 +176241,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">südameklapp</l>
+      <l pos="A|N">südameklapp</l>
     </lg>
     <mg>
       <tg>
@@ -176251,7 +176251,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">südamekoda</l>
+      <l pos="A|N">südamekoda</l>
     </lg>
     <mg>
       <tg>
@@ -176337,7 +176337,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">südamevatsake</l>
+      <l pos="A|N">südamevatsake</l>
     </lg>
     <mg>
       <tg>
@@ -176536,7 +176536,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sügismantel</l>
+      <l pos="A|N">sügismantel</l>
     </lg>
     <mg>
       <tg>
@@ -176638,7 +176638,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">süljelärakas</l>
+      <l pos="A|N">süljelärakas</l>
     </lg>
     <mg>
       <tg>
@@ -176869,7 +176869,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">sünkroontõlge</l>
+      <l pos="A|N">sünkroontõlge</l>
     </lg>
     <mg>
       <tg>
@@ -176879,7 +176879,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">sünkroontõlk</l>
+      <l pos="A|N">sünkroontõlk</l>
     </lg>
     <mg>
       <tg>
@@ -176967,7 +176967,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sünnitunnistus</l>
+      <l pos="A|N">sünnitunnistus</l>
     </lg>
     <mg>
       <tg>
@@ -177426,7 +177426,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">süüpink</l>
+      <l pos="A|N">süüpink</l>
     </lg>
     <mg>
       <tg>
@@ -177802,7 +177802,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ðokolaaditahvel</l>
+      <l pos="A|N">ðokolaaditahvel</l>
     </lg>
     <mg>
       <tg>
@@ -177852,7 +177852,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ðpits</l>
+      <l pos="A|N">ðpits</l>
     </lg>
     <mg>
       <tg>
@@ -178046,7 +178046,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">þgutt</l>
+      <l pos="A|N">þgutt</l>
     </lg>
     <mg>
       <tg>
@@ -179029,7 +179029,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">tagaotsitav</l>
+      <l pos="A|N">tagaotsitav</l>
     </lg>
     <mg>
       <tg>
@@ -179154,7 +179154,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tagasild</l>
+      <l pos="A|N">tagasild</l>
     </lg>
     <mg>
       <tg>
@@ -179381,7 +179381,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tagavarakumm</l>
+      <l pos="A|N">tagavarakumm</l>
     </lg>
     <mg>
       <tg>
@@ -180015,7 +180015,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">taimetoit</l>
+      <l pos="A|N">taimetoit</l>
     </lg>
     <mg>
       <tg>
@@ -180403,7 +180403,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">taktikepp</l>
+      <l pos="A|N">taktikepp</l>
     </lg>
     <mg>
       <tg>
@@ -180652,7 +180652,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">tall_1</l>
+      <l pos="A|N">tall_1</l>
     </lg>
     <mg>
       <tg>
@@ -180904,7 +180904,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">taluvuspiir</l>
+      <l pos="A|N">taluvuspiir</l>
     </lg>
     <mg>
       <tg>
@@ -180914,7 +180914,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">taluvõi</l>
+      <l pos="A|N">taluvõi</l>
     </lg>
     <mg>
       <tg>
@@ -180958,7 +180958,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">talvemantel</l>
+      <l pos="A|N">talvemantel</l>
     </lg>
     <mg>
       <tg>
@@ -181070,7 +181070,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tammetõru</l>
+      <l pos="A|N">tammetõru</l>
     </lg>
     <mg>
       <tg>
@@ -181177,7 +181177,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tangusupp</l>
+      <l pos="A|N">tangusupp</l>
     </lg>
     <mg>
       <tg>
@@ -181221,7 +181221,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tankitõrje-</l>
+      <l>tankitõrje-</l>
     </lg>
     <mg>
       <tg>
@@ -181806,7 +181806,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">tark</l>
+      <l pos="A|N">tark</l>
     </lg>
     <mg>
       <tg>
@@ -182327,7 +182327,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tasemetöö</l>
+      <l pos="A|N">tasemetöö</l>
     </lg>
     <mg>
       <tg>
@@ -182363,7 +182363,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">taskuarvuti</l>
+      <l pos="A|N">taskuarvuti</l>
     </lg>
     <mg>
       <tg>
@@ -182383,7 +182383,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">taskunuga</l>
+      <l pos="A|N">taskunuga</l>
     </lg>
     <mg>
       <tg>
@@ -182403,7 +182403,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">taskusõnastik</l>
+      <l pos="A|N">taskusõnastik</l>
     </lg>
     <mg>
       <tg>
@@ -182865,7 +182865,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tavaõigus</l>
+      <l>tavaõigus</l>
     </lg>
     <mg>
       <tg>
@@ -182915,7 +182915,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">teabevahend</l>
+      <l pos="A|N">teabevahend</l>
     </lg>
     <mg>
       <tg>
@@ -183234,7 +183234,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">teadusstipendium</l>
+      <l>teadusstipendium</l>
     </lg>
     <mg>
       <tg>
@@ -183579,7 +183579,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">teehöövel</l>
+      <l pos="A|N">teehöövel</l>
     </lg>
     <mg>
       <tg>
@@ -183961,7 +183961,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">teerull</l>
+      <l pos="A|N">teerull</l>
     </lg>
     <mg>
       <tg>
@@ -184868,7 +184868,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tekireisija</l>
+      <l pos="A|N">tekireisija</l>
     </lg>
     <mg>
       <tg>
@@ -185018,7 +185018,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tekstülesanne</l>
+      <l pos="A|N">tekstülesanne</l>
     </lg>
     <mg>
       <tg>
@@ -185051,7 +185051,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">teleekraan</l>
+      <l pos="A|N">teleekraan</l>
     </lg>
     <mg>
       <tg>
@@ -185071,7 +185071,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">telefilm</l>
+      <l pos="A|N">telefilm</l>
     </lg>
     <mg>
       <tg>
@@ -185132,7 +185132,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">telefonioperaator</l>
+      <l pos="A|N">telefonioperaator</l>
     </lg>
     <mg>
       <tg>
@@ -185181,7 +185181,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">telefoniäratus</l>
+      <l pos="A|N">telefoniäratus</l>
     </lg>
     <mg>
       <tg>
@@ -185246,7 +185246,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">telelavastus</l>
+      <l pos="A|N">telelavastus</l>
     </lg>
     <mg>
       <tg>
@@ -185276,7 +185276,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">teleuudised</l>
+      <l pos="A|N">teleuudised</l>
     </lg>
     <mg>
       <tg>
@@ -186081,7 +186081,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">terasetööstus</l>
+      <l>terasetööstus</l>
     </lg>
     <mg>
       <tg>
@@ -186149,7 +186149,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">teraviljasaak</l>
+      <l pos="A|N">teraviljasaak</l>
     </lg>
     <mg>
       <tg>
@@ -186412,7 +186412,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">terrassikohvik</l>
+      <l pos="A|N">terrassikohvik</l>
     </lg>
     <mg>
       <tg>
@@ -186482,7 +186482,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">terve</l>
+      <l>terve</l>
     </lg>
     <mg>
       <tg>
@@ -186648,7 +186648,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tervisesport</l>
+      <l pos="A|N">tervisesport</l>
     </lg>
     <mg>
       <tg>
@@ -187167,7 +187167,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tikk-kontsad</l>
+      <l pos="A|N">tikk-kontsad</l>
     </lg>
     <mg>
       <tg>
@@ -187624,7 +187624,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tipphooaeg</l>
+      <l pos="A|N">tipphooaeg</l>
     </lg>
     <mg>
       <tg>
@@ -187828,7 +187828,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">toalill</l>
+      <l pos="A|N">toalill</l>
     </lg>
     <mg>
       <tg>
@@ -188063,7 +188063,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">toidumürgitus</l>
+      <l pos="A|N">toidumürgitus</l>
     </lg>
     <mg>
       <tg>
@@ -188588,7 +188588,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tollikontroll</l>
+      <l pos="A|N">tollikontroll</l>
     </lg>
     <mg>
       <tg>
@@ -188874,7 +188874,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">toolipõhi</l>
+      <l pos="A|N">toolipõhi</l>
     </lg>
     <mg>
       <tg>
@@ -189242,7 +189242,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tootmisdirektor</l>
+      <l pos="A|N">tootmisdirektor</l>
     </lg>
     <mg>
       <tg>
@@ -189374,7 +189374,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tordipõhi</l>
+      <l pos="A|N">tordipõhi</l>
     </lg>
     <mg>
       <tg>
@@ -189537,7 +189537,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tormihoiatus</l>
+      <l pos="A|N">tormihoiatus</l>
     </lg>
     <mg>
       <tg>
@@ -190637,7 +190637,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">trummipõrin</l>
+      <l pos="A|N">trummipõrin</l>
     </lg>
     <mg>
       <tg>
@@ -190940,7 +190940,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tsemendivabrik</l>
+      <l pos="A|N">tsemendivabrik</l>
     </lg>
     <mg>
       <tg>
@@ -191301,7 +191301,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tualettlaud</l>
+      <l pos="A|N">tualettlaud</l>
     </lg>
     <mg>
       <tg>
@@ -191570,7 +191570,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tugiisik</l>
+      <l pos="A|N">tugiisik</l>
     </lg>
     <mg>
       <tg>
@@ -191965,7 +191965,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tuimastusvahend</l>
+      <l pos="A|N">tuimastusvahend</l>
     </lg>
     <mg>
       <tg>
@@ -192432,7 +192432,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tuletõrjesignalisatsioon</l>
+      <l pos="A|N">tuletõrjesignalisatsioon</l>
     </lg>
     <mg>
       <tg>
@@ -192523,7 +192523,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tulevikuväljavaated</l>
+      <l pos="A|N">tulevikuväljavaated</l>
     </lg>
     <mg>
       <tg>
@@ -193510,7 +193510,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">turismibüroo</l>
+      <l pos="A|N">turismibüroo</l>
     </lg>
     <mg>
       <tg>
@@ -193645,7 +193645,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">turundusosakond</l>
+      <l pos="A|N">turundusosakond</l>
     </lg>
     <mg>
       <tg>
@@ -193705,7 +193705,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">turvakood</l>
+      <l pos="A|N">turvakood</l>
     </lg>
     <mg>
       <tg>
@@ -194044,7 +194044,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tuulekannel</l>
+      <l pos="A|N">tuulekannel</l>
     </lg>
     <mg>
       <tg>
@@ -194104,7 +194104,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tuulepluus</l>
+      <l pos="A|N">tuulepluus</l>
     </lg>
     <mg>
       <tg>
@@ -194490,7 +194490,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tõendusmaterjal</l>
+      <l pos="A|N">tõendusmaterjal</l>
     </lg>
     <mg>
       <tg>
@@ -195056,7 +195056,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tõrvalill</l>
+      <l pos="A|N">tõrvalill</l>
     </lg>
     <mg>
       <tg>
@@ -195168,7 +195168,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tõstesportlane</l>
+      <l pos="A|N">tõstesportlane</l>
     </lg>
     <mg>
       <tg>
@@ -196638,7 +196638,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tänavakohvik</l>
+      <l pos="A|N">tänavakohvik</l>
     </lg>
     <mg>
       <tg>
@@ -196706,7 +196706,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">tänu</l>
+      <l pos="A|N">tänu</l>
     </lg>
     <mg>
       <tg>
@@ -196981,7 +196981,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tärklisesisaldus</l>
+      <l pos="A|N">tärklisesisaldus</l>
     </lg>
     <mg>
       <tg>
@@ -198057,7 +198057,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">tüll_2</l>
+      <l pos="A|N">tüll_2</l>
     </lg>
     <mg>
       <tg>
@@ -198289,7 +198289,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tüvevokaal</l>
+      <l pos="A|N">tüvevokaal</l>
     </lg>
     <mg>
       <tg>
@@ -199095,7 +199095,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">uksesilm</l>
+      <l pos="A|N">uksesilm</l>
     </lg>
     <mg>
       <tg>
@@ -199312,7 +199312,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ulualune</l>
+      <l pos="A|N">ulualune</l>
     </lg>
     <mg>
       <tg>
@@ -199332,7 +199332,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ulukiliha</l>
+      <l pos="A|N">ulukiliha</l>
     </lg>
     <mg>
       <tg>
@@ -199512,7 +199512,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">umbusaldusavaldus</l>
+      <l pos="A|N">umbusaldusavaldus</l>
     </lg>
     <mg>
       <tg>
@@ -199638,7 +199638,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">unearter</l>
+      <l pos="A|N">unearter</l>
     </lg>
     <mg>
       <tg>
@@ -200919,7 +200919,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">uulitsapoiss</l>
+      <l pos="A|N">uulitsapoiss</l>
     </lg>
     <mg>
       <tg>
@@ -201035,7 +201035,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">uurimistoetus</l>
+      <l>uurimistoetus</l>
     </lg>
     <mg>
       <tg>
@@ -201279,7 +201279,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vaakumpakend</l>
+      <l pos="A|N">vaakumpakend</l>
     </lg>
     <mg>
       <tg>
@@ -201512,7 +201512,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vaatetorn</l>
+      <l pos="A|N">vaatetorn</l>
     </lg>
     <mg>
       <tg>
@@ -202055,7 +202055,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vaenukinnas</l>
+      <l pos="A|N">vaenukinnas</l>
     </lg>
     <mg>
       <tg>
@@ -202100,7 +202100,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vaeseke</l>
+      <l pos="A|N">vaeseke</l>
     </lg>
     <mg>
       <tg>
@@ -202381,7 +202381,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vahejoon</l>
+      <l pos="A|N">vahejoon</l>
     </lg>
     <mg>
       <tg>
@@ -203001,7 +203001,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vahtkonnavahetus</l>
+      <l pos="A|N">vahtkonnavahetus</l>
     </lg>
     <mg>
       <tg>
@@ -203517,7 +203517,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vaimusugulus</l>
+      <l pos="A|N">vaimusugulus</l>
     </lg>
     <mg>
       <tg>
@@ -203859,7 +203859,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">vale</l>
+      <l pos="A|N">vale</l>
     </lg>
     <mg>
       <tg>
@@ -204095,7 +204095,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">valgusekartlik</l>
+      <l pos="A|N">valgusekartlik</l>
     </lg>
     <mg>
       <tg>
@@ -204744,7 +204744,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">valu_2</l>
+      <l pos="A|N">valu_2</l>
     </lg>
     <mg>
       <tg>
@@ -204784,7 +204784,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">valulävi</l>
+      <l pos="A|N">valulävi</l>
     </lg>
     <mg>
       <tg>
@@ -205281,7 +205281,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vanavarapood</l>
+      <l pos="A|N">vanavarapood</l>
     </lg>
     <mg>
       <tg>
@@ -205366,7 +205366,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">vanem</l>
+      <l pos="A|N">vanem</l>
     </lg>
     <mg>
       <tg>
@@ -205388,7 +205388,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vanemad</l>
+      <l pos="A|N">vanemad</l>
     </lg>
     <mg>
       <tg>
@@ -206784,7 +206784,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vasaraheitja</l>
+      <l pos="A|N">vasaraheitja</l>
     </lg>
     <mg>
       <tg>
@@ -207130,7 +207130,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vastlakukkel</l>
+      <l pos="A|N">vastlakukkel</l>
     </lg>
     <mg>
       <tg>
@@ -207704,7 +207704,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">-vatine</l>
+      <l pos="A|N">-vatine</l>
     </lg>
     <mg>
       <tg>
@@ -207919,7 +207919,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">veealune</l>
+      <l pos="A|N">veealune</l>
     </lg>
     <mg>
       <tg>
@@ -207929,7 +207929,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">veeavarii</l>
+      <l pos="A|N">veeavarii</l>
     </lg>
     <mg>
       <tg>
@@ -208315,7 +208315,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">veesport</l>
+      <l pos="A|N">veesport</l>
     </lg>
     <mg>
       <tg>
@@ -208526,7 +208526,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">veinikelder</l>
+      <l pos="A|N">veinikelder</l>
     </lg>
     <mg>
       <tg>
@@ -208556,7 +208556,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vekkpurk</l>
+      <l pos="A|N">vekkpurk</l>
     </lg>
     <mg>
       <tg>
@@ -208576,7 +208576,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">veloergomeeter</l>
+      <l pos="A|N">veloergomeeter</l>
     </lg>
     <mg>
       <tg>
@@ -208947,7 +208947,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">verelible</l>
+      <l pos="A|N">verelible</l>
     </lg>
     <mg>
       <tg>
@@ -209099,7 +209099,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">veritasu</l>
+      <l pos="A|N">veritasu</l>
     </lg>
     <mg>
       <tg>
@@ -209181,7 +209181,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vesijalgratas</l>
+      <l pos="A|N">vesijalgratas</l>
     </lg>
     <mg>
       <tg>
@@ -209191,7 +209191,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vesimärk</l>
+      <l pos="A|N">vesimärk</l>
     </lg>
     <mg>
       <tg>
@@ -209315,7 +209315,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vesitsikkel</l>
+      <l pos="A|N">vesitsikkel</l>
     </lg>
     <mg>
       <tg>
@@ -209556,7 +209556,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">vettehüppaja</l>
+      <l pos="A|N">vettehüppaja</l>
     </lg>
     <mg>
       <tg>
@@ -209616,7 +209616,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vibulaskmine</l>
+      <l pos="A|N">vibulaskmine</l>
     </lg>
     <mg>
       <tg>
@@ -209811,7 +209811,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vigurlend</l>
+      <l pos="A|N">vigurlend</l>
     </lg>
     <mg>
       <tg>
@@ -209967,7 +209967,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vihjetelefon</l>
+      <l pos="A|N">vihjetelefon</l>
     </lg>
     <mg>
       <tg>
@@ -210048,7 +210048,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vihmamantel</l>
+      <l pos="A|N">vihmamantel</l>
     </lg>
     <mg>
       <tg>
@@ -210112,7 +210112,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vihmavarjualus</l>
+      <l pos="A|N">vihmavarjualus</l>
     </lg>
     <mg>
       <tg>
@@ -210533,7 +210533,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">viinamarjakobar</l>
+      <l pos="A|N">viinamarjakobar</l>
     </lg>
     <mg>
       <tg>
@@ -210644,7 +210644,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">viis_2</l>
+      <l pos="A|N">viis_2</l>
     </lg>
     <mg>
       <tg>
@@ -210859,7 +210859,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">viitsütik</l>
+      <l pos="A|N">viitsütik</l>
     </lg>
     <mg>
       <tg>
@@ -211534,7 +211534,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vingumürgitus</l>
+      <l pos="A|N">vingumürgitus</l>
     </lg>
     <mg>
       <tg>
@@ -211977,7 +211977,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vitraaþ</l>
+      <l pos="A|N">vitraaþ</l>
     </lg>
     <mg>
       <tg>
@@ -212310,7 +212310,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">voodrilaud</l>
+      <l pos="A|N">voodrilaud</l>
     </lg>
     <mg>
       <tg>
@@ -212455,7 +212455,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">voor_2</l>
+      <l pos="A|N">voor_2</l>
     </lg>
     <mg>
       <tg>
@@ -212532,7 +212532,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vormiroog</l>
+      <l pos="A|N">vormiroog</l>
     </lg>
     <mg>
       <tg>
@@ -212857,7 +212857,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">võiduloos</l>
+      <l pos="A|N">võiduloos</l>
     </lg>
     <mg>
       <tg>
@@ -213376,7 +213376,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">võitoos</l>
+      <l pos="A|N">võitoos</l>
     </lg>
     <mg>
       <tg>
@@ -213848,7 +213848,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">võrgusilm</l>
+      <l pos="A|N">võrgusilm</l>
     </lg>
     <mg>
       <tg>
@@ -214164,7 +214164,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">võtmekaart</l>
+      <l pos="A|N">võtmekaart</l>
     </lg>
     <mg>
       <tg>
@@ -214310,7 +214310,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">võõrtööline</l>
+      <l pos="A|N">võõrtööline</l>
     </lg>
     <mg>
       <tg>
@@ -214603,7 +214603,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">vähem</l>
+      <l pos="A|N">vähem</l>
     </lg>
     <mg>
       <tg>
@@ -215014,7 +215014,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">väliköök</l>
+      <l pos="A|N">väliköök</l>
     </lg>
     <mg>
       <tg>
@@ -215266,7 +215266,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">välivoodi</l>
+      <l pos="A|N">välivoodi</l>
     </lg>
     <mg>
       <tg>
@@ -215347,7 +215347,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">väljaarvatud</l>
+      <l>väljaarvatud</l>
     </lg>
     <mg>
       <tg>
@@ -215667,7 +215667,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">väljaveoluba</l>
+      <l pos="A|N">väljaveoluba</l>
     </lg>
     <mg>
       <tg>
@@ -216153,7 +216153,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">värvifilm</l>
+      <l pos="A|N">värvifilm</l>
     </lg>
     <mg>
       <tg>
@@ -216364,7 +216364,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">väär_1</l>
+      <l pos="A|N">väär_1</l>
     </lg>
     <mg>
       <tg>
@@ -216565,7 +216565,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">väärtpaberimaakler</l>
+      <l pos="A|N">väärtpaberimaakler</l>
     </lg>
     <mg>
       <tg>
@@ -216708,7 +216708,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vöötkood</l>
+      <l pos="A|N">vöötkood</l>
     </lg>
     <mg>
       <tg>
@@ -217064,7 +217064,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">õhkutõus</l>
+      <l pos="A|N">õhkutõus</l>
     </lg>
     <mg>
       <tg>
@@ -217210,7 +217210,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õhuauk</l>
+      <l pos="A|N">õhuauk</l>
     </lg>
     <mg>
       <tg>
@@ -217240,7 +217240,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õhukumm</l>
+      <l pos="A|N">õhukumm</l>
     </lg>
     <mg>
       <tg>
@@ -217330,7 +217330,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õhusaastemaks</l>
+      <l pos="A|N">õhusaastemaks</l>
     </lg>
     <mg>
       <tg>
@@ -217378,7 +217378,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õhutõrjekahur</l>
+      <l pos="A|N">õhutõrjekahur</l>
     </lg>
     <mg>
       <tg>
@@ -217408,7 +217408,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õhuvedu</l>
+      <l pos="A|N">õhuvedu</l>
     </lg>
     <mg>
       <tg>
@@ -217568,7 +217568,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õigekeelsussõnaraamat</l>
+      <l pos="A|N">õigekeelsussõnaraamat</l>
     </lg>
     <mg>
       <tg>
@@ -217980,7 +217980,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õlakehitus</l>
+      <l pos="A|N">õlakehitus</l>
     </lg>
     <mg>
       <tg>
@@ -218147,7 +218147,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õllekruus</l>
+      <l pos="A|N">õllekruus</l>
     </lg>
     <mg>
       <tg>
@@ -218241,7 +218241,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õmblusvaru</l>
+      <l pos="A|N">õmblusvaru</l>
     </lg>
     <mg>
       <tg>
@@ -218530,7 +218530,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õnnetuskindlustus</l>
+      <l pos="A|N">õnnetuskindlustus</l>
     </lg>
     <mg>
       <tg>
@@ -218775,7 +218775,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õpilashinnaalandus</l>
+      <l pos="A|N">õpilashinnaalandus</l>
     </lg>
     <mg>
       <tg>
@@ -218785,7 +218785,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õpingud</l>
+      <l pos="A|N">õpingud</l>
     </lg>
     <mg>
       <tg>
@@ -218870,7 +218870,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õppegranaat</l>
+      <l pos="A|N">õppegranaat</l>
     </lg>
     <mg>
       <tg>
@@ -218910,7 +218910,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">õppelaev</l>
+      <l pos="A|N">õppelaev</l>
     </lg>
     <mg>
       <tg>
@@ -219678,7 +219678,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">äikesevihm</l>
+      <l pos="A|N">äikesevihm</l>
     </lg>
     <mg>
       <tg>
@@ -219918,7 +219918,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">ära_2</l>
+      <l>ära_2</l>
     </lg>
     <mg>
       <tg>
@@ -221185,7 +221185,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ööinimene</l>
+      <l pos="A|N">ööinimene</l>
     </lg>
     <mg>
       <tg>
@@ -221303,7 +221303,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ööpäevahind</l>
+      <l pos="A|N">ööpäevahind</l>
     </lg>
     <mg>
       <tg>
@@ -221343,7 +221343,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ööriided</l>
+      <l pos="A|N">ööriided</l>
     </lg>
     <mg>
       <tg>
@@ -221412,7 +221412,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">öövahetus</l>
+      <l pos="A|N">öövahetus</l>
     </lg>
     <mg>
       <tg>
@@ -222066,7 +222066,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ühiskonnakord</l>
+      <l pos="A|N">ühiskonnakord</l>
     </lg>
     <mg>
       <tg>
@@ -222977,7 +222977,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">üldpindala</l>
+      <l pos="A|N">üldpindala</l>
     </lg>
     <mg>
       <tg>
@@ -223456,7 +223456,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ülekäigurada</l>
+      <l pos="A|N">ülekäigurada</l>
     </lg>
     <mg>
       <tg>
@@ -223505,7 +223505,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">ülem</l>
+      <l pos="A|N">ülem</l>
     </lg>
     <mg>
       <tg>
@@ -223603,7 +223603,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">üleminekueksamid</l>
+      <l pos="A|N">üleminekueksamid</l>
     </lg>
     <mg>
       <tg>
@@ -223633,7 +223633,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ülemkelner</l>
+      <l pos="A|N">ülemkelner</l>
     </lg>
     <mg>
       <tg>
@@ -224062,7 +224062,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ületunnitöö</l>
+      <l pos="A|N">ületunnitöö</l>
     </lg>
     <mg>
       <tg>
@@ -224401,7 +224401,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">üliõpilasesindus</l>
+      <l pos="A|N">üliõpilasesindus</l>
     </lg>
     <mg>
       <tg>
@@ -224556,7 +224556,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">ümber</l>
+      <l>ümber</l>
     </lg>
     <mg>
       <tg>

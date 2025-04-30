@@ -318,8 +318,8 @@ class Entry:
             if len(nob_lemma_match) == 1:
                 # assume it is the pos
                 self.pos = nob_lemma_match.pop()
-            elif len(nob_all) == 1:
-                self.pos = nob_all.pop()
+            #elif len(nob_all) == 1:
+            #    self.pos = nob_all.pop()
 
 
 def parse_args():
