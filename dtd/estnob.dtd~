@@ -1,0 +1,36 @@
+<!ELEMENT e ( lg, mg+ ) >
+
+<!ELEMENT l ( #PCDATA ) >
+<!ATTLIST l comment CDATA #IMPLIED >
+<!ATTLIST l pos ( A | AN | Adv | CC | CS | Det | Interj | N | Num | Phrase | Po | Pr | Pron | V ) #REQUIRED >
+
+<!ELEMENT lg ( l ) >
+
+<!ELEMENT lics (lic, ref*, sourcenote*) >
+<!ATTLIST lics xml:space (default|preserve) 'preserve'>
+<!ELEMENT lic (#PCDATA|a)*>
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA|a|i)*>
+<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+
+<!ELEMENT mg ( tg ) >
+
+<!ELEMENT r (lics?, e+, xhtml:script?) >
+<!ATTLIST r xml:lang (est) #IMPLIED>
+<!ATTLIST r id (estnob) #IMPLIED>
+
+<!ELEMENT xhtml:script ( #PCDATA ) >
+
+<!ELEMENT t ( #PCDATA ) >
+
+<!ELEMENT tg ( t+, xg* ) >
+
+
+<!ELEMENT x ( #PCDATA ) >
+
+<!ELEMENT xg ( x, xt ) >
+
+<!ELEMENT xt ( #PCDATA ) >
+
