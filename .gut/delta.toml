@@ -1,0 +1,12 @@
+template = ""
+rev_id = 4
+template_sha = "87be02986858c4b7ae5e8613b6f951c3c209b221"
+
+[replacements]
+__LICENSE__ = ""
+__UND2C_SRC__ = "et"
+__UND2C_TRG__ = "nb"
+__UNDEFINED_SOURCE__ = "Estonian"
+__UNDEFINED_TARGET__ = "Norwegian Bokmål"
+__UND_SRC__ = "est"
+__UND_TRG__ = "nob"
